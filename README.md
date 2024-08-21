@@ -84,6 +84,8 @@ Computational Reactor Theory is a field of study that applies computational meth
 [Reactors](https://github.com/sourceduty/Reactors)
 <br>
 [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
+<br>
+[Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
