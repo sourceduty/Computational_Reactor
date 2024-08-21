@@ -266,6 +266,10 @@ In addition to traditional HPC hardware, emerging technologies like quantum comp
 </details>
 
 #
+
+> Alex: "*I made a computational microreactor model concept using custom reactive nodes.*"
+
+#
 ### Related Links
 
 [Reactors](https://github.com/sourceduty/Reactors)
