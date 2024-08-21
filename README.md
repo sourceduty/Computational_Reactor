@@ -20,6 +20,8 @@ The flexibility of the computational reactor lies in its ability to simulate dif
 #
 ### Computational Reactor Types
 
+These computational reactor types are conceptual models rather than physical or operational systems currently in use.
+
 <details>
 <summary>Evolutionary Computational Reactor</summary>
 <br>
@@ -96,6 +98,10 @@ The concept of a computational data reactor is a powerful and versatile tool in 
 ### Computational Reactor Theory
 
 Computational Reactor Theory is a field of study that applies computational methods to solve and analyze problems related to nuclear reactors. It is an essential discipline in nuclear engineering and physics, enabling the design, simulation, and optimization of reactor systems. The field combines principles from reactor physics, numerical analysis, and computer science to model the behavior of nuclear reactors under various conditions.
+
+#
+
+> Alex: "**"
 
 #
 ### Related Links
