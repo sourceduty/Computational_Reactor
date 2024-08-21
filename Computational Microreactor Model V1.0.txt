@@ -116,4 +116,4 @@ Sensor Readings:
 
 This example illustrates a sequence of reactions within the computational microreactor model, showing how reactants transform and interact through the defined pathways.
 
- Copyright (C) 2024, Sourceduty - All Rights Reserved.
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
