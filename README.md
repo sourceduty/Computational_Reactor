@@ -28,7 +28,7 @@ Example: In a genetic algorithm-based reactor, various bots (representing differ
 
 Advantages: This reactor can discover highly optimized solutions for complex problems where traditional methods might be insufficient or inefficient.
 
-#### Adaptive Computational Reactor
+##### Adaptive Computational Reactor
    
 Purpose: An adaptive reactor focuses on real-time adjustments and learning. It allows bots or algorithms to modify their behavior dynamically based on feedback from the environment or the outcomes of previous actions.
 
@@ -52,7 +52,7 @@ Example: In machine learning, a stochastic reactor might be used to explore diff
 
 Advantages: This reactor can help discover non-obvious solutions by allowing for exploration beyond deterministic methods, potentially uncovering strategies that would not have been considered otherwise.
 
-#### Synergistic Computational Reactor
+##### Synergistic Computational Reactor
    
 Purpose: A synergistic reactor is designed to foster collaboration between bots or algorithms in a way that their combined efforts produce a result greater than the sum of their individual contributions. It emphasizes finding synergies and optimizing interdependencies.
 
