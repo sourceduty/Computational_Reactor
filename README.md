@@ -18,55 +18,61 @@ The concept of a computational reactor in the context of bot correlations is a p
 The flexibility of the computational reactor lies in its ability to simulate different types of correlations between bots. These correlations can be broadly categorized into two main types: competitive correlations and cooperative correlations. Each of these types offers unique insights into the effectiveness and efficiency of the algorithms and processes being executed by the bots.
 
 #
-### Computational Reactor Types
-
-##### Evolutionary Computational Reactor
-   
+Computational Reactor Types
+<details>
+<summary>Evolutionary Computational Reactor</summary>
 Purpose: This reactor type is designed to simulate an environment where multiple algorithms or bots can evolve over time through mechanisms such as selection, mutation, and crossover. The goal is to progressively optimize a solution to a complex problem by allowing the best-performing algorithms to continue while iterating on or discarding less effective ones.
 
 Example: In a genetic algorithm-based reactor, various bots (representing different solutions) compete to solve an optimization problem, such as finding the most efficient routing path in a logistics network. Over successive generations, the reactor allows for the combination and mutation of the most successful bots, gradually evolving towards an optimal solution.
 
 Advantages: This reactor can discover highly optimized solutions for complex problems where traditional methods might be insufficient or inefficient.
 
-##### Adaptive Computational Reactor
-   
+</details>
+<details>
+<summary>Adaptive Computational Reactor</summary>
 Purpose: An adaptive reactor focuses on real-time adjustments and learning. It allows bots or algorithms to modify their behavior dynamically based on feedback from the environment or the outcomes of previous actions.
 
 Example: In a financial trading system, an adaptive reactor could be used where bots adjust their trading strategies based on live market data and their own performance history. For instance, if a bot notices that a certain trading strategy has started to underperform due to changing market conditions, it could adapt by switching to a different strategy or fine-tuning its parameters.
 
 Advantages: This type of reactor is ideal for environments that are highly dynamic and require continuous adaptation to remain effective.
 
-##### Parallel Computational Reactor
-   
+</details>
+<details>
+<summary>Parallel Computational Reactor</summary>
 Purpose: This reactor type is designed to handle large-scale data processing tasks by distributing the workload across multiple bots or algorithms operating in parallel. The focus is on maximizing efficiency and speed by leveraging parallelism.
 
 Example: In a big data processing scenario, a parallel reactor could split a massive dataset into smaller chunks, each processed by different bots in parallel. One bot might be responsible for filtering and cleaning data, another for performing analytics, and yet another for visualizing results. The reactor then combines these parallel processes into a coherent output.
 
 Advantages: This reactor type is particularly useful for tasks that require significant computational resources and need to be completed quickly, such as processing large datasets or performing high-frequency calculations.
 
-##### Stochastic Computational Reactor
-   
+</details>
+<details>
+<summary>Stochastic Computational Reactor</summary>
 Purpose: A stochastic reactor introduces randomness and probability into the processing environment, allowing bots to explore a wider range of solutions or strategies. This is particularly useful in scenarios where the optimal solution is not well-defined or is highly variable.
 
 Example: In machine learning, a stochastic reactor might be used to explore different hyperparameter configurations for a neural network. Bots randomly select different hyperparameter values (like learning rates, batch sizes, etc.) and train models, with the reactor evaluating which combinations lead to the best performance.
 
 Advantages: This reactor can help discover non-obvious solutions by allowing for exploration beyond deterministic methods, potentially uncovering strategies that would not have been considered otherwise.
 
-##### Synergistic Computational Reactor
-   
+</details>
+<details>
+<summary>Synergistic Computational Reactor</summary>
 Purpose: A synergistic reactor is designed to foster collaboration between bots or algorithms in a way that their combined efforts produce a result greater than the sum of their individual contributions. It emphasizes finding synergies and optimizing interdependencies.
 
 Example: In a healthcare analytics scenario, different bots might specialize in analyzing patient data, predicting disease risk, and recommending treatment plans. The synergistic reactor enables these bots to share insights and refine their outputs collaboratively, resulting in more personalized and effective healthcare recommendations.
 
 Advantages: This reactor is ideal for complex systems where multiple processes must work together harmoniously to achieve the best outcomes, particularly when interdependencies are significant.
 
-##### Reactive Computational Reactor
-
+</details>
+<details>
+<summary>Reactive Computational Reactor</summary>
 Purpose: A reactive reactor focuses on responding to real-time events or changes in the environment. Bots or algorithms within this reactor are designed to react quickly and appropriately to stimuli, often in high-stakes or time-sensitive situations.
 
 Example: In cybersecurity, a reactive reactor could host bots that monitor network traffic for threats. Upon detecting an anomaly, the bots immediately respond by isolating affected systems, alerting administrators, and beginning remediation processes.
 
 Advantages: This type of reactor is essential for scenarios where immediate action is required, such as in emergency response systems or real-time monitoring applications.
+
+</details>
 
 #
 ### Computational Data Reactor
