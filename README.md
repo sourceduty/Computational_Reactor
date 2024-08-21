@@ -230,7 +230,9 @@ The model includes a range of operations that manipulate reactants:
 Real-time monitoring is achieved through a suite of sensors:
 
 Activation & Process Sensors track initiation and process metrics.
+<br>
 Data & IO Sensors oversee data flow and interaction rates.
+<br>
 Reaction Sensors ensure comprehensive oversight of reaction activities.
 
 This model provides a versatile tool for examining the behavior of reactive systems, optimizing reaction processes, and gaining insights into complex chemical and physical transformations. Through its structured approach and detailed monitoring, the Computational Microreactor Model V1.0 is poised to advance research and development in computational chemistry and engineering.
