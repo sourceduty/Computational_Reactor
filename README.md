@@ -11,7 +11,7 @@ Computational reactors are used extensively in the design, optimization, and saf
 These simulations also play a key role in education and research. They provide a platform for students and researchers to explore reactor physics and engineering without needing access to a physical reactor. Furthermore, computational reactors are invaluable in ongoing research efforts to develop new reactor designs, such as advanced reactors or small modular reactors, by allowing for extensive testing and iteration in a virtual environment. Overall, computational reactors are a powerful asset in both the practical and theoretical realms of nuclear science and engineering.
 
 #
-### Computational Bot Reactor
+### Computational Bot Reactor Concept
 
 The concept of a computational reactor in the context of bot correlations is a powerful and versatile tool in the realm of AI and automation. A computational reactor functions as a controlled environment designed to facilitate the interaction of multiple bots, each executing specific processes or algorithms. Within this environment, bots can engage in various forms of data processing, interact with one another, and produce outputs that can be observed, analyzed, and optimized.
 
