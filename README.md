@@ -1,6 +1,6 @@
 ![Computational Reactor](https://github.com/user-attachments/assets/77a3cce0-a512-469d-900f-13fd0559a772)
 
-> The concept and creation of a controlled environment where multiple bots can interact, process data, and produce outputs.
+> The concept and creation of a controlled environment where multiple reactions produce outputs.
 
 #
 
