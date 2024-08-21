@@ -20,8 +20,6 @@ The flexibility of the computational reactor lies in its ability to simulate dif
 #
 ### Computational Reactor Types
 
-These computational reactor types are conceptual models rather than physical or operational systems currently in use.
-
 <details>
 <summary>Evolutionary Computational Reactor</summary>
 <br>
@@ -88,6 +86,8 @@ Example: In cybersecurity, a reactive reactor could host bots that monitor netwo
 Advantages: This type of reactor is essential for scenarios where immediate action is required, such as in emergency response systems or real-time monitoring applications.
 
 </details>
+
+These computational reactor types are conceptual models rather than physical or operational systems currently in use.
 
 #
 ### Computational Data Reactor
