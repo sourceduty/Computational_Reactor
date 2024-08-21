@@ -198,9 +198,9 @@ The Computational Microreactor Model offers a comprehensive framework for simula
 ##### Reactor Diagram:
 
 ```
-V →A → B → C → W
-   ↓   ↓   ↓
-   S   F   E
+V → A → B → C → W
+    ↓   ↓   ↓
+    S   F   E
 ```
 
 ##### Core Components and Structure:
