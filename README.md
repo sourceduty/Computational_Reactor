@@ -23,8 +23,7 @@ The flexibility of the computational reactor lies in its ability to simulate dif
 These computational reactor types are conceptual models designed to simulate various computational processes and interactions rather than being physical or operational systems currently in use. They represent frameworks that could potentially be implemented in software environments to address complex computational challenges by leveraging principles like evolution, adaptation, parallel processing, stochastic exploration, synergy, and reactivity. While these models themselves are not yet built as standalone systems, similar concepts are already employed in various fields, such as genetic algorithms in optimization, adaptive systems in machine learning, distributed computing for big data processing, stochastic methods in statistical analysis, collaborative multi-agent systems, and real-time reactive systems. These existing technologies illustrate how the foundational ideas behind computational reactors can be applied to solve real-world problems, suggesting that these models could serve as the basis for future innovations in computational science.
 
 <br>
-<details>
-<summary>Evolutionary Computational Reactor</summary>
+<details><summary>Evolutionary Computational Reactor</summary>
 <br>
   
 Purpose: This reactor type is designed to simulate an environment where multiple algorithms or bots can evolve over time through mechanisms such as selection, mutation, and crossover. The goal is to progressively optimize a solution to a complex problem by allowing the best-performing algorithms to continue while iterating on or discarding less effective ones.
@@ -34,8 +33,7 @@ Example: In a genetic algorithm-based reactor, various bots (representing differ
 Advantages: This reactor can discover highly optimized solutions for complex problems where traditional methods might be insufficient or inefficient.
 
 </details>
-<details>
-<summary>Adaptive Computational Reactor</summary>
+<details><summary>Adaptive Computational Reactor</summary>
 <br>
     
 Purpose: An adaptive reactor focuses on real-time adjustments and learning. It allows bots or algorithms to modify their behavior dynamically based on feedback from the environment or the outcomes of previous actions.
@@ -45,8 +43,7 @@ Example: In a financial trading system, an adaptive reactor could be used where 
 Advantages: This type of reactor is ideal for environments that are highly dynamic and require continuous adaptation to remain effective.
 
 </details>
-<details>
-<summary>Parallel Computational Reactor</summary>
+<details><summary>Parallel Computational Reactor</summary>
 <br>
     
 Purpose: This reactor type is designed to handle large-scale data processing tasks by distributing the workload across multiple bots or algorithms operating in parallel. The focus is on maximizing efficiency and speed by leveraging parallelism.
@@ -56,8 +53,7 @@ Example: In a big data processing scenario, a parallel reactor could split a mas
 Advantages: This reactor type is particularly useful for tasks that require significant computational resources and need to be completed quickly, such as processing large datasets or performing high-frequency calculations.
 
 </details>
-<details>
-<summary>Stochastic Computational Reactor</summary>
+<details><summary>Stochastic Computational Reactor</summary>
 <br>
     
 Purpose: A stochastic reactor introduces randomness and probability into the processing environment, allowing bots to explore a wider range of solutions or strategies. This is particularly useful in scenarios where the optimal solution is not well-defined or is highly variable.
@@ -67,8 +63,7 @@ Example: In machine learning, a stochastic reactor might be used to explore diff
 Advantages: This reactor can help discover non-obvious solutions by allowing for exploration beyond deterministic methods, potentially uncovering strategies that would not have been considered otherwise.
 
 </details>
-<details>
-<summary>Synergistic Computational Reactor</summary>
+<details><summary>Synergistic Computational Reactor</summary>
 <br>
     
 Purpose: A synergistic reactor is designed to foster collaboration between bots or algorithms in a way that their combined efforts produce a result greater than the sum of their individual contributions. It emphasizes finding synergies and optimizing interdependencies.
@@ -78,8 +73,7 @@ Example: In a healthcare analytics scenario, different bots might specialize in 
 Advantages: This reactor is ideal for complex systems where multiple processes must work together harmoniously to achieve the best outcomes, particularly when interdependencies are significant.
 
 </details>
-<details>
-<summary>Reactive Computational Reactor</summary>
+<details><summary>Reactive Computational Reactor</summary>
 <br>
     
 Purpose: A reactive reactor focuses on responding to real-time events or changes in the environment. Bots or algorithms within this reactor are designed to react quickly and appropriately to stimuli, often in high-stakes or time-sensitive situations.
@@ -94,6 +88,98 @@ Advantages: This type of reactor is essential for scenarios where immediate acti
 ### Computational Data Reactor Concept
 
 The concept of a computational data reactor is a powerful and versatile tool in the field of data processing and automation. A computational data reactor serves as a controlled environment where multiple bots or algorithms can interact, process data, and generate outputs that can be closely observed, analyzed, and optimized. This environment's flexibility allows for the simulation of various correlation types between the bots—whether competitive or cooperative—enabling a deep understanding of the effectiveness of different data processing strategies under a variety of conditions.
+
+#
+### Computational Data Reactor Example
+
+The provided Python code implements a basic framework for a "Computational Data Reactor," which simulates an environment where multiple bots (or algorithms) interact to process data and generate outputs. Each bot in the system is designed with a specific data processing strategy, such as calculating the average, sum, maximum, or minimum of a given dataset. The bots can then interact with each other in different modes, such as cooperative, where they share and average their results, or competitive, where they compete by retaining the highest value among their outputs. This interaction allows the simulation of various data processing scenarios, providing insights into how different strategies perform under specific conditions.
+
+The reactor class manages the overall environment, feeding data into the bots, facilitating their interactions, and collecting the final outputs. By allowing multiple data sets to be processed sequentially and observing how the bots' outputs evolve, the framework enables the analysis of the effectiveness of different strategies in a controlled setting. The modular nature of the code allows easy extension, enabling more complex interactions, additional processing strategies, and more sophisticated data flows. This makes the "Computational Data Reactor" a versatile tool for experimenting with and optimizing data processing algorithms in various scenarios.
+
+<br>
+
+```
+import random
+import numpy as np
+
+class Bot:
+    def __init__(self, name, strategy):
+        self.name = name
+        self.strategy = strategy
+        self.data = None
+
+    def process_data(self, data):
+        """Process incoming data according to the bot's strategy."""
+        if self.strategy == 'average':
+            self.data = np.mean(data)
+        elif self.strategy == 'sum':
+            self.data = np.sum(data)
+        elif self.strategy == 'max':
+            self.data = np.max(data)
+        elif self.strategy == 'min':
+            self.data = np.min(data)
+        else:
+            self.data = data
+    
+    def interact(self, other_bot, mode):
+        """Interact with another bot based on the specified mode."""
+        if mode == 'cooperative':
+            self.data = (self.data + other_bot.data) / 2
+        elif mode == 'competitive':
+            self.data = max(self.data, other_bot.data)
+    
+    def get_output(self):
+        """Return the bot's output data."""
+        return self.data
+
+
+class ComputationalDataReactor:
+    def __init__(self, bots, interaction_mode='cooperative'):
+        self.bots = bots
+        self.interaction_mode = interaction_mode
+        self.data_feed = []
+
+    def feed_data(self, data):
+        """Feed data into the reactor."""
+        self.data_feed.append(data)
+
+    def run(self):
+        """Run the reactor to process data and simulate interactions."""
+        for data in self.data_feed:
+            for bot in self.bots:
+                bot.process_data(data)
+            
+            for i in range(len(self.bots)):
+                for j in range(i + 1, len(self.bots)):
+                    self.bots[i].interact(self.bots[j], self.interaction_mode)
+    
+    def get_results(self):
+        """Collect the outputs from all bots."""
+        return {bot.name: bot.get_output() for bot in self.bots}
+
+
+# Example Usage
+if __name__ == "__main__":
+    # Define bots with different strategies
+    bot1 = Bot(name="Bot1", strategy="average")
+    bot2 = Bot(name="Bot2", strategy="sum")
+    bot3 = Bot(name="Bot3", strategy="max")
+    
+    # Create a reactor with the bots
+    reactor = ComputationalDataReactor(bots=[bot1, bot2, bot3], interaction_mode='cooperative')
+    
+    # Feed data into the reactor
+    reactor.feed_data([1, 2, 3, 4, 5])
+    reactor.feed_data([10, 20, 30, 40, 50])
+    
+    # Run the reactor
+    reactor.run()
+    
+    # Get and print results
+    results = reactor.get_results()
+    print(results)
+
+```
 
 #
 ### Computational Reactor Theory
