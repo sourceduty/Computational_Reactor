@@ -212,7 +212,9 @@ At the heart of the model lies a carefully mapped diagram, illustrating the flow
 The model features three primary reactants (A, B, and C) with distinct interactions and pathways:
 
 A interacts with V, contributing to B and influencing S.
+<br>
 B is a central node connecting A and C, while also impacting F.
+<br>
 C completes the reaction chain by connecting B to E and terminating at W.
 
 ##### Operational Dynamics: 
