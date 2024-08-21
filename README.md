@@ -18,7 +18,7 @@ The concept of a computational reactor in the context of bot correlations is a p
 The flexibility of the computational reactor lies in its ability to simulate different types of correlations between bots. These correlations can be broadly categorized into two main types: competitive correlations and cooperative correlations. Each of these types offers unique insights into the effectiveness and efficiency of the algorithms and processes being executed by the bots.
 
 #
-Computational Reactor Types
+### Computational Reactor Types
 <details>
 <summary>Evolutionary Computational Reactor</summary>
 Purpose: This reactor type is designed to simulate an environment where multiple algorithms or bots can evolve over time through mechanisms such as selection, mutation, and crossover. The goal is to progressively optimize a solution to a complex problem by allowing the best-performing algorithms to continue while iterating on or discarding less effective ones.
