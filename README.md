@@ -245,6 +245,61 @@ This model provides a versatile tool for examining the behavior of reactive syst
 
 <br>
 </details>
+<details><summary>Microreactor Model V1.0 Topology</summary>
+<br>
+
+```
+Computational Microreactor Model
+|
++-- Reactants
+|   |
+|   +-- V (Initiator)
+|   +-- A
+|   +-- B
+|   +-- C
+|   +-- S
+|   +-- F
+|   +-- E
+|   +-- W (Terminator)
+|
++-- Nodes
+|   |
+|   +-- Node A
+|   |   |
+|   |   +-- Input: V
+|   |   +-- Output: B, S
+|   |
+|   +-- Node B
+|   |   |
+|   |   +-- Input: A
+|   |   +-- Output: C, F
+|   |
+|   +-- Node C
+|       |
+|       +-- Input: B
+|       +-- Output: E, W
+|
++-- Operations
+|   |
+|   +-- Merging
+|   +-- Transformation
+|   +-- Splitting
+|   +-- Filtering
+|   +-- Feature Engineering
+|
++-- Sensors
+    |
+    +-- Activation Sensors
+    +-- Process Sensors
+    +-- Data Sensors
+    +-- IO Sensors
+    +-- Reaction Sensors
+
+```
+
+<br>
+</details>
+
 
 #
 ### Computational Reactor Theory
