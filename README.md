@@ -319,6 +319,8 @@ Moreover, this controlled virtual environment can be used to accelerate the disc
 [Physics Generator](https://github.com/sourceduty/Physics_Experiments)
 <br>
 [Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
+<br>
+[Multiphysics Simulator](https://chatgpt.com/g/g-9PVqGto6g-multiphysics-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
