@@ -649,6 +649,8 @@ Overall, incorporating dynamic environmental changes and external influences int
 [Theory](https://github.com/sourceduty/Theory)
 <br>
 [Math](https://github.com/sourceduty/Math)
+<br>
+[Computational Programming](https://github.com/sourceduty/Computational_Programming)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
