@@ -313,6 +313,12 @@ Moreover, this controlled virtual environment can be used to accelerate the disc
 [Mataphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 <br>
 [Cancer](https://github.com/sourceduty/Cancer)
+<br>
+[Experiment Generator](https://github.com/sourceduty/Experiment_Generator)
+<br>
+[Physics Generator](https://github.com/sourceduty/Physics_Experiments)
+<br>
+[Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
