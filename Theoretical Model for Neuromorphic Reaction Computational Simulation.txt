@@ -1,0 +1,92 @@
+Theoretical Model for Neuromorphic Reaction Computational Simulation
+
+================================================================
+|                        COMPONENTS                            |
+================================================================
+1. Neuron-Reaction Model
+   A neuron-reaction model integrates neuron dynamics with reaction-based processes, allowing for the simulation of biochemically inspired computations.
+   - Reaction-Diffusion Systems: Simulates chemical concentration changes over time, interacting with neuron dynamics.
+   - Integrate-and-Fire with Reactions: Neurons respond to both electrical inputs and local chemical concentrations.
+
+   Variables:
+   - Membrane Potential (V)
+   - Reaction Concentration (C)
+   - Reaction Rate (k)
+   - Firing Threshold (θ)
+
+2. Synapse-Reaction Model
+   Synapse-reaction models define the interaction between neurons and reaction processes.
+   - Synaptic Weight (w): Modulated by chemical reactions or neurotransmitter concentrations.
+   - Synaptic Delay (d): Time taken for both electrical and chemical signals to propagate.
+   - Reaction Influence: Reaction dynamics alter synaptic efficacy (e.g., through ion channel modulation).
+
+   Parameters:
+   - Synaptic Conductance (g): Dependent on reaction states.
+   - Neurotransmitter Concentration (T): Affects synaptic transmission strength.
+   - Plasticity Rules: Coupled with reaction dynamics, such as concentration-dependent STDP.
+
+3. Network Topology with Reaction Zones
+   The network topology includes areas or zones where specific reactions occur, influencing local neuron behavior.
+   - Reaction Zones: Regions with distinct chemical environments affecting neuron and synapse behavior.
+   - Connectivity Patterns: Can be random, small-world, or scale-free, with additional reaction-driven modulation.
+
+   Variables:
+   - Number of Neurons (N)
+   - Connectivity Matrix (C): Incorporates reaction-zone influences.
+   - Reaction-Diffusion Matrix (R): Describes chemical concentration gradients.
+
+4. Input Stimuli and Reaction Triggers
+   External stimuli not only drive neuronal activity but also trigger or modulate local reactions.
+   - Electrical Inputs: Standard inputs like Poisson spike trains or constant currents.
+   - Chemical Inputs: Introduction of specific chemicals or molecules that influence reactions.
+
+   Variables:
+   - Input Type: Electrical, chemical, or combined.
+   - Input Frequency and Duration
+   - Chemical Injection Rate (r)
+
+5. Simulation Dynamics and Reaction Integration
+   The simulation evolves by simultaneously solving neuron dynamics, synaptic transmission, and reaction-diffusion equations.
+   - Neuron Dynamics: Governed by standard neuronal equations (e.g., dV/dt).
+   - Reaction-Diffusion Dynamics: Governed by partial differential equations (e.g., dC/dt = D∇²C - kC).
+   - Interaction: Neuron firing can alter local chemical concentrations and vice versa.
+
+   Equations:
+   - Neuron Dynamics Equation
+   - Reaction-Diffusion Equation
+   - Synapse-Reaction Interaction
+
+6. Global Network-Reaction Behavior
+   Emergent phenomena that arise from the interplay of neuronal activity and reaction dynamics.
+   - Oscillatory Behavior: Coupled electrical and chemical oscillations leading to synchronized network activity.
+   - Pattern Formation: Emergence of spatial patterns in neuron activity linked to reaction-diffusion systems.
+   - Memory and Learning: Chemical reactions modulate synaptic plasticity, leading to stable memory patterns.
+
+7. Output Metrics and Reaction Analysis
+   Tools for analyzing both neuronal and reaction-based outputs:
+   - Raster Plot: Visualizes spike timings in relation to reaction zones.
+   - Spike Rate and Reaction Concentration Profiles: Measures neuron activity and chemical concentrations over time.
+   - Voltage and Concentration Traces: Records changes in membrane potential and reaction states.
+   - Pattern Formation Analysis: Detects emergent patterns from reaction-diffusion and neuronal interactions.
+
+================================================================
+|                    SIMULATION WORKFLOW                       |
+================================================================
+1. Initialization
+   - Set neuron-reaction and synapse-reaction models.
+   - Define network topology with reaction zones.
+
+2. Input Application
+   - Apply electrical and/or chemical stimuli to neurons or reaction zones.
+
+3. Simulation Execution
+   - Solve coupled neuron dynamics and reaction-diffusion equations.
+   - Record neuronal activities, synaptic updates, and reaction concentrations.
+
+4. Analysis and Observation
+   - Analyze emergent patterns such as oscillations, reaction-driven learning, and pattern formation.
+   - Observe global network properties influenced by reaction dynamics.
+
+5. Adjustments and Iteration
+   - Tune parameters (e.g., reaction rates, synaptic weights).
+   - Rerun the simulation to observe changes in global behavior or learning outcomes, considering the reaction dynamics.
