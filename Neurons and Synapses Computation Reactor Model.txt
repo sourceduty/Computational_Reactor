@@ -1,0 +1,91 @@
+Neurons and Synapses Computation Reactor Model
+
+Components:
+
+1. Neuron:
+ - ID
+ - Input Synapses List
+ - Output Synapses List
+ - Activation Function (e.g., sigmoid, ReLU, etc.)
+ - Threshold
+ - Current State (activated or not)
+ - Output Value (after activation)
+
+2. Synapse:
+ - ID
+ - Source Neuron ID
+ - Target Neuron ID
+ - Weight
+ - Signal Strength (calculated as Output Value of Source Neuron * Weight)
+
+3. Neural Layer:
+ - ID
+ - List of Neurons
+ - Layer Type (Input, Hidden, Output)
+
+4. Neural Network:
+ - Input Layer (List of Neurons)
+ - Hidden Layers (List of Neural Layers)
+ - Output Layer (List of Neurons)
+ - Feedforward Function (processes inputs through the network)
+ - Backpropagation Function (adjusts weights based on error)
+
+Reactor Workflow:
+
+1. Initialize Neurons and Synapses:
+  - Assign IDs to Neurons and Synapses.
+  - Set initial weights for Synapses.
+  - Define activation functions for Neurons.
+
+2. Feedforward Process:
+  - For each Neuron in the Input Layer:
+    - Pass input values to the Neurons.
+    - Calculate output value using the activation function.
+    
+  - For each Neuron in the Hidden Layers:
+    - For each Input Synapse:
+      - Compute the Signal Strength.
+    - Sum Signal Strengths.
+    - Compare to the Threshold.
+    - Calculate output value using the activation function.
+    - Send output to connected Neurons in the next layer.
+    
+  - For each Neuron in the Output Layer:
+    - Same as for Hidden Layers.
+    - Final output is produced.
+
+3. Backpropagation Process:
+  - Compute error based on the difference between expected output and actual output.
+  - For each Neuron in the Output Layer:
+    - Calculate the gradient of the error.
+    - Adjust weights of Input Synapses.
+    
+  - For each Neuron in the Hidden Layers (backwards):
+    - Calculate error propagated from connected neurons.
+    - Adjust weights of Input Synapses.
+    
+  - Update the weights iteratively until the error is minimized.
+
+4. Training Loop:
+  - Initialize network parameters.
+  - Feedforward input data.
+  - Backpropagate errors.
+  - Update Synapse weights.
+  - Repeat for multiple epochs until convergence.
+
+5. Prediction:
+  - Input new data.
+  - Use the Feedforward Process to predict the output.
+
+Topology Diagram:
+
+      [Input Neurons]
+             |
+             v
+       [Hidden Layer 1]
+             |
+             v
+       [Hidden Layer 2]
+             |
+             v
+       [Output Neurons]
