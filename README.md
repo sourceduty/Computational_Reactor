@@ -287,7 +287,7 @@ AI-assisted computational reactors are emerging concepts, integrating AI to enha
 <br>
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 <br>
-[Biological Simulation](https://github.com/sourceduty/Biological_Reactor)
+[Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
 <br>
 [Neuromorphic_Simulator](https://github.com/sourceduty/Neuromorphic_Simulator)
 <br>
