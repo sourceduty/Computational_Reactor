@@ -1,0 +1,35 @@
+Computational Reactor Development Formatting
+
+1. Node Format
+
+Basic Node Structure:
+
+- Node Name: Identifier for the node in the reactor process (e.g., A, B, C).
+- Function: The role or operation of the node (e.g., react, transform, split).
+- Inputs: Reactants or materials entering the node.
+- Outputs: Products or materials exiting the node.
+
+2. Arrow Format
+
+Arrow Representation:
+
+- Direction: Indicates the flow from one node to another.
+- Type: Solid for direct transformations, dashed for conditional or feedback flows.
+- Annotation: Information about the transformation or flow rate.
+
+3. Dynamics Format
+
+Operational Dynamics:
+
+- Merging: Combine reactants (e.g., A + B → AB)
+- Splitting: Divide reactants (e.g., AB → A + B)
+- Transformation: Change in the state or composition (e.g., A → B)
+- Feedback: Conditional dynamics affecting prior nodes
+
+4. Units Format
+
+Unit Representation:
+
+- Reactant Quantities: The number of units for each reactant or product.
+- Measurement: Use consistent units (e.g., moles, grams).
+- Change: Indicate increases or decreases in units during reactions.
