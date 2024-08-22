@@ -453,6 +453,42 @@ Sensor Readings and Log Entries:
 
 <br>
 </details>
+<details><summary>Microreactor Model V1.5 Topology</summary>
+<br>
+
+```
+Topological Diagram of the Computational Microreactor Model V1.5
+
+    V
+    |
+[Enrichment Node]
+    |
+    A
+    |
+    B
+    |
+    C
+    |
+    W
+   / \
+  S   E
+   \ /
+[Feedback Nodes]
+    |
+   V, A, B, C, W
+
+Legend:
+
+- V: Initial Reactant
+- [Enrichment Node]: Enhances or modifies input reactants before entering the main sequence.
+- A, B, C: Sequential reaction nodes.
+- W: Final product node.
+- S, E: Intermediate products influencing the reaction process.
+- [Feedback Nodes]: Adjust inputs and reaction conditions based on outputs and intermediate products.
+```
+
+<br>
+</details>
 
 #
 ### Computational Reactor Theory
