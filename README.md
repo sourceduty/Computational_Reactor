@@ -285,6 +285,10 @@ In addition to traditional HPC hardware, emerging technologies like quantum comp
 [Neuromorphic_Simulator](https://github.com/sourceduty/Neuromorphic_Simulator)
 <br>
 [Neuroquantum Simulator](https://github.com/sourceduty/Neuroquantum_Simulator)
+<br.
+[Metamodel Developer](https://github.com/sourceduty/Metamodel_Developer)
+<br>
+[Mataphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
