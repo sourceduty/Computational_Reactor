@@ -88,24 +88,42 @@ Advantages: This type of reactor is essential for scenarios where immediate acti
 ### Computational Reactor Node Types
 
 ```
-Input Nodes:
+1. Input Nodes:
+   - Enrichment Node: Pre-processes and enhances input reactants before entering the main reaction sequence.
+   - Purification Node: Filters and removes impurities from input reactants to ensure consistent and controlled reactions.
+   - Catalyst Addition Node: Automatically introduces catalysts to the input stream to enhance reaction efficiency or speed.
+   - Concentration Adjustment Node: Modifies the concentration of input reactants to align with desired reaction outcomes.
 
-- Enrichment Node: Pre-processes and enhances input reactants before entering the main reaction sequence.
+2. Reaction Nodes:
+   - Transformation Node: Processes and transforms reactants through sequential reactions (e.g., Nodes A, B, C).
+   - Intermediate Node: Manages and holds intermediate reactants that influence ongoing reactions (e.g., Nodes S, E).
+   - Multi-Path Node: Divides reactants into multiple pathways, allowing parallel reactions to occur.
+   - Combination Node: Merges multiple reactants into a single stream, facilitating complex reactions involving multiple inputs.
+   - Inhibitor Node: Introduces inhibitors that slow down or halt specific reactions to control the overall process.
 
- Reaction Nodes:
+3. Output Nodes:
+   - Termination Node: Represents the final product formation at the end of the reaction sequence (e.g., Node W).
+   - Product Separation Node: Separates final products from by-products or unreacted materials, ensuring purity and quality.
+   - Storage Node: Temporarily holds the final product before it exits the reactor, allowing for controlled release or further processing.
 
-- Transformation Node: Processes and transforms reactants through sequential reactions (e.g., Nodes A, B, C).
-- Intermediate Node: Manages and holds intermediate reactants that influence ongoing reactions (e.g., Nodes S, E).
+4. Feedback Nodes:
+   - Regulation Feedback Node: Adjusts the flow or transformation rates of previous nodes based on output or intermediate product levels.
+   - Reinforcement Feedback Node: Enhances the reaction by increasing reactant input or reactivity based on intermediate product concentration.
+   - Control Feedback Node: Maintains equilibrium in the reactor by automatically adjusting reactant flows or concentrations.
+   - Error Correction Node: Detects and corrects deviations from the expected reaction pathway, ensuring consistent outputs.
+   - Adaptive Feedback Node: Dynamically alters reaction parameters (e.g., temperature, pressure) in real-time based on feedback from sensors.
 
-Output Nodes:
+5. Sensor Nodes:
+   - Activation Sensor Node: Monitors the initiation of reactions and tracks the activation of input reactants.
+   - Process Sensor Node: Continuously records reaction rates, temperature, pressure, and other process metrics.
+   - Data Flow Sensor Node: Oversees the flow of reactants, intermediates, and products through the reactor, ensuring efficient operation.
+   - Quality Control Sensor Node: Analyzes the composition and quality of intermediates and final products, ensuring they meet predefined standards.
 
-- Termination Node: Represents the final product formation at the end of the reaction sequence (e.g., Node W).
-
-Feedback Nodes:
-
-- Regulation Feedback Node: Adjusts the flow or transformation rates of previous nodes based on output or intermediate product levels.
-- Reinforcement Feedback Node: Enhances the reaction by increasing reactant input or reactivity based on intermediate product concentration.
-- Control Feedback Node: Maintains equilibrium in the reactor by automatically adjusting reactant flows or concentrations.
+6. Auxiliary Nodes:
+   - Buffer Node: Temporarily holds reactants or products, allowing for flow regulation and preventing bottlenecks in the reaction sequence.
+   - Waste Management Node: Processes and neutralizes by-products or waste materials generated during the reaction, ensuring safe disposal or recycling.
+   - External Influence Node: Introduces external factors like heat, pressure, or additional reactants mid-reaction to study their effects on the process.
+   - Monitoring and Logging Node: Records all activities and changes within the reactor for analysis, troubleshooting, and optimization purposes.
 ```
 
 #
