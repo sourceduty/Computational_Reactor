@@ -1,7 +1,7 @@
 ![Computational Reactor](https://github.com/user-attachments/assets/77a3cce0-a512-469d-900f-13fd0559a772)
 
-> The concept and creation of a controlled environment where multiple reactions produce outputs.
-
+> The concept and creation of a controlled virtual environment where multiple reactions produce outputs.
+> 
 #
 
 A computational reactor is a virtual model or simulation of a physical nuclear reactor, designed to replicate the behavior of the reactor under various conditions. It uses sophisticated algorithms and numerical methods to simulate the physical processes occurring within the reactor, such as neutron transport, heat generation, and fluid dynamics. These simulations are vital for understanding how a reactor will perform, allowing scientists and engineers to predict outcomes without the risks and costs associated with physical testing.
