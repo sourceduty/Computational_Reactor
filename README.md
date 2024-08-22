@@ -278,6 +278,8 @@ AI-assisted computational reactors are emerging concepts, integrating AI to enha
 
 > "*Causing and analyzing custom computational reactions between dynamic models in a virtual microreactor environment.*"
 
+> "*I developed the first AI-Assisted Computational Reactor when I made the Biological Reactor.*"
+
 #
 ### Related Links
 
