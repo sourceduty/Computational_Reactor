@@ -281,6 +281,10 @@ In addition to traditional HPC hardware, emerging technologies like quantum comp
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 <br>
 [Biological Simulation](https://github.com/sourceduty/Biological_Reactor)
+<br>
+[Neuromorphic_Simulator](https://github.com/sourceduty/Neuromorphic_Simulator)
+<br>
+[Neuroquantum Simulator](https://github.com/sourceduty/Neuroquantum_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
