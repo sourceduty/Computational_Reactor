@@ -289,6 +289,8 @@ Moreover, this controlled virtual environment can be used to accelerate the disc
 
 > "*I developed the first AI-Assisted Computational Reactor when I made the Biological Reactor.*"
 
+> "*The concept of creating a controlled virtual environment where multiple reactions produce outputs could significantly benefit cancer research.*"
+
 #
 ### Related Links
 
