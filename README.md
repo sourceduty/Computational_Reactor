@@ -299,7 +299,160 @@ Computational Microreactor Model
 
 <br>
 </details>
+<details><summary>Microreactor Model V1.5</summary>
+<br>
 
+Computational Microreactor Model V1.5
+
+Enrichment of Input
+
+Enhanced Input Handling:
+
+- Introduce an Enrichment Node before the initial reactant V is fed into the system. This node allows for the pre-processing of input reactants by enriching or modifying their properties before they enter the main reaction sequence.
+
+Examples of enrichment operations:
+
+- Concentration Adjustment: Increase or decrease the concentration of reactants based on desired reaction outcomes.
+- Catalyst Addition: Automatically add catalysts to the input to enhance reaction efficiency or speed.
+- Purification: Filter out impurities or unwanted elements from the input reactants, ensuring a more controlled reaction environment.
+
+Dynamic Input Variability:
+
+- Allow for variable input conditions where the concentration, type, or state of reactants can change over time. This could be done by simulating real-world scenarios where input flows are not constant, such as fluctuating supply in industrial processes.
+
+Feedback Loops
+
+Incorporation of Feedback Loops:
+
+- Introduce Feedback Nodes at strategic points in the reaction sequence, particularly at the output of nodes A, B, C, and W.
+
+These nodes allow the output or intermediate products to influence earlier stages of the reaction:
+
+- Regulation Feedback: The concentration of intermediate or final products can regulate the flow or transformation rates of previous nodes. For instance, if W reaches a certain threshold, the flow of V might slow down or stop.
+- Reinforcement Feedback: Positive feedback can be used to accelerate reactions. For example, an increase in product C could trigger a higher input of V or an enrichment process to sustain rapid production.
+- Control Feedback: Use feedback to maintain equilibrium in the reactor by automatically adjusting reactant flows or concentrations based on real-time sensor data.
+
+Adaptive Reaction Control:
+
+- Implement adaptive control mechanisms that adjust the reaction parameters dynamically based on the feedback received. This could involve changing temperature, pressure, or reactant flow rates to optimize the reaction process.
+
+Advanced Logging and Monitoring
+
+Comprehensive Logging System:
+
+Develop an advanced logging framework that records every aspect of the simulation, including:
+
+- Reactant Levels: Detailed logs of reactant levels at each node and at each time step.
+- Sensor Data: Continuous logging of sensor readings, including activation, process, data flow, and reaction dynamics.
+- Feedback Events: Record instances where feedback loops were triggered, including the conditions that activated them and the subsequent changes made to the system.
+
+Error Detection and Correction Logs:
+
+- Include logging for error detection, where anomalies or deviations from expected pathways are automatically flagged and logged for further analysis.
+- Integrate corrective actions into the log, detailing how the system responded to correct deviations or errors in the reaction process.
+
+Data Export and Visualization:
+
+- Ensure that logs can be exported in various formats for detailed analysis.
+- Develop real-time visualization tools that represent the logged data graphically, allowing users to observe trends, feedback loop activations, and system performance over time.
+
+Reactor Diagram
+
+```
+(V) → [Enrichment Node] → A → B → C → W
+              ↓           ↓   ↓   ↓   ↓
+              S   ←--- [Feedback Nodes]
+```
+
+Legend of Nodes:
+
+- (V): Initial Reactant
+- [Enrichment Node]: Pre-processing stage for input reactants, enhancing or modifying properties before entering the main reaction sequence.
+- A, B, C: Main reaction nodes where transformations occur.
+- W: Final product formed at the end of the reaction sequence.
+- S: Intermediate reactant that influences the progression of reactions.
+- [Feedback Nodes]: Mechanisms that allow outputs or intermediate products to influence earlier stages of the reaction, adjusting flow or transformation rates.
+
+In this diagram:
+
+- The Enrichment Node enhances the input reactant V before it enters the main reaction sequence.
+- Feedback Nodes are integrated at various points (A, B, C, W) to influence earlier stages based on the output or intermediate product levels.
+- The system is now more dynamic, with inputs and reaction conditions capable of adaptation through enrichment and feedback mechanisms.
+
+Example Simulated Reaction with Feedback and Logging
+
+Initial Conditions:
+
+- Reactant V (Initiator) = 100 units
+- Reactant A = 50 units
+- Reactant B = 30 units
+- Reactant C = 20 units
+- Reactant S = 0 units
+- Reactant F = 0 units
+- Reactant E = 0 units
+- Reactant W = 0 units
+
+Reaction Pathway:
+
+Step 1: Enrichment and Initiation
+
+- Enrichment Node processes V, increasing its reactivity.
+- Enriched Reactant V starts the chain reaction.
+- Decrease V by 10 units.
+- New V = 90 units.
+
+Step 2: A's Reaction with Feedback
+
+- A reacts with V, feedback loop monitors B's concentration.
+- Decrease A by 5 units and increase B by 5 units.
+- If B < 20 units, feedback increases V input slightly to sustain the reaction.
+- New A = 45 units.
+- New B = 35 units.
+
+Step 3: B's Reaction
+
+- B reacts with A and forms C.
+- Decrease B by 10 units and increase C by 10 units.
+- New B = 25 units.
+- New C = 30 units.
+- Feedback loop detects high C, triggers enrichment node to increase V reactivity.
+
+Step 4: C's Reaction
+
+- C reacts with B, forming E.
+- Decrease C by 15 units and increase E by 10 units.
+- New C = 15 units.
+- New E = 10 units.
+
+Step 5: Termination with Feedback
+
+- C continues to react, forming W.
+- Feedback loop checks W; if W > 10 units, slows V input to prevent overproduction.
+- Decrease C by 10 units and increase W by 10 units.
+- New C = 5 units.
+- New W = 10 units.
+
+Final States:
+
+- V = 90 units
+- A = 45 units
+- B = 25 units
+- C = 5 units
+- S = 0 units
+- F = 0 units
+- E = 10 units
+- W = 10 units
+
+Sensor Readings and Log Entries:
+
+- Activation Sensors: Log V activation and enrichment.
+- Process Sensors: Record reaction rates of A to B and B to C.
+- Data Sensors: Log changes in reactant concentrations and feedback adjustments.
+- IO Sensors: Track enriched V input and W output.
+- Reaction Sensors: Monitor the entire reaction pathway, including feedback activations and adjustments.
+
+<br>
+</details>
 
 #
 ### Computational Reactor Theory
