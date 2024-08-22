@@ -144,3 +144,5 @@ Sensor Readings and Log Entries:
 - Data Sensors: Log changes in reactant concentrations and feedback adjustments.
 - IO Sensors: Track enriched V input and W output.
 - Reaction Sensors: Monitor the entire reaction pathway, including feedback activations and adjustments.
+
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
