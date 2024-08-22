@@ -85,6 +85,30 @@ Advantages: This type of reactor is essential for scenarios where immediate acti
 </details>
 
 #
+### Computational Reactor Node Types
+
+```
+Input Nodes:
+
+- Enrichment Node: Pre-processes and enhances input reactants before entering the main reaction sequence.
+
+ Reaction Nodes:
+
+- Transformation Node: Processes and transforms reactants through sequential reactions (e.g., Nodes A, B, C).
+- Intermediate Node: Manages and holds intermediate reactants that influence ongoing reactions (e.g., Nodes S, E).
+
+Output Nodes:
+
+- Termination Node: Represents the final product formation at the end of the reaction sequence (e.g., Node W).
+
+Feedback Nodes:
+
+- Regulation Feedback Node: Adjusts the flow or transformation rates of previous nodes based on output or intermediate product levels.
+- Reinforcement Feedback Node: Enhances the reaction by increasing reactant input or reactivity based on intermediate product concentration.
+- Control Feedback Node: Maintains equilibrium in the reactor by automatically adjusting reactant flows or concentrations.
+```
+
+#
 ### Computational Data Reactor Concept
 
 The concept of a computational data reactor is a powerful and versatile tool in the field of data processing and automation. A computational data reactor serves as a controlled environment where multiple bots or algorithms can interact, process data, and generate outputs that can be closely observed, analyzed, and optimized. This environment's flexibility allows for the simulation of various correlation types between the bots—whether competitive or cooperative—enabling a deep understanding of the effectiveness of different data processing strategies under a variety of conditions.
