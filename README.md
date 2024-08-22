@@ -658,6 +658,8 @@ Overall, incorporating dynamic environmental changes and external influences int
 [Math](https://github.com/sourceduty/Math)
 <br>
 [Computational Programming](https://github.com/sourceduty/Computational_Programming)
+<br>
+[Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
