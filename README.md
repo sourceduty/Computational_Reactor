@@ -620,6 +620,8 @@ Overall, incorporating dynamic environmental changes and external influences int
 
 > "*Given the capabilities of computational reactors, it is estimated that their use could reduce the time required for key stages of cancer research by as much as 30% to 50%.*"
 
+> "*This could be a substantial breakthrough four Sourceduty in Cancer Research Science if it was utilized.*"
+
 #
 ### Related Links
 
