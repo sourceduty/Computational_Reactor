@@ -619,6 +619,14 @@ Additionally, introducing external influences during the simulation can signific
 
 Overall, incorporating dynamic environmental changes and external influences into simulations creates a more comprehensive and adaptable model. This not only aids in predicting outcomes under various scenarios but also provides a deeper understanding of how reactions behave in non-ideal conditions, leading to more robust and applicable results.
 
+
+#
+### Public Funding for Computational Reactors
+
+To secure public funding for this project, several avenues can be explored. Government grants from agencies like the National Science Foundation (NSF), Department of Energy (DOE), or European Union programs such as Horizon Europe could provide substantial funding, particularly for research and development initiatives. Collaborations with research institutions and universities could also offer access to internal research grants or facilitate connections to larger funding bodies. Non-profit organizations and foundations, such as the Alfred P. Sloan Foundation or the Simons Foundation, often support scientific research, especially in areas related to energy and technology, making them viable sources of funding.
+
+In addition to traditional grants, alternative funding methods can also be effective. Crowdfunding platforms like Kickstarter, GoFundMe, or Indiegogo can help raise funds directly from the public, leveraging community interest and engagement. For this to succeed, a compelling project pitch and active communication with potential backers are essential. Corporate sponsorships and partnerships with companies in relevant industries (e.g., energy, technology) can provide not only financial support but also valuable resources and expertise. Finally, tapping into the open-source community for donations or contributions can be another way to sustain and grow the project, especially if the project has a strong following or addresses a widespread need within the community.
+
 ***
 
 > Alex: "*I made a computational microreactor model concept using custom reactive nodes.*"
