@@ -645,7 +645,7 @@ In addition to traditional grants, alternative funding methods can also be effec
 
 > "*There isn't a financial budget limit for cancer and zero profit. It doesn't matter.*"
 
-> "*I'm not planning on leading the development and management of computational reactors for cancer. My work is the computations.*"
+> "*I'm not planning on leading the development and management of computational reactors for cancer. In this science, my work is the computations.*"
 
 #
 ### Related Links
