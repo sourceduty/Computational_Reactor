@@ -691,6 +691,8 @@ In addition to traditional grants, alternative funding methods can also be effec
 [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
 <br>
 [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
+<br>
+[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
