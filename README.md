@@ -90,6 +90,119 @@ Example: In cybersecurity, a reactive reactor could host bots that monitor netwo
 Advantages: This type of reactor is essential for scenarios where immediate action is required, such as in emergency response systems or real-time monitoring applications.
 
 </details>
+<details><summary>Evolutionary Computational Reactor</summary> <br>
+  
+Purpose: Uses evolutionary algorithms to optimize reactor designs or processes. It iteratively improves solutions based on natural selection principles, such as survival of the fittest.
+
+Example: Optimizing the arrangement of fuel rods in a reactor core to maximize efficiency and minimize waste.
+
+Advantages: Can find innovative solutions by exploring a wide range of possibilities, often identifying non-intuitive designs that conventional methods might miss.
+
+</details> <details><summary>Adaptive Computational Reactor</summary> <br>
+  
+Purpose: Adapts to changing conditions or inputs in real-time, making it suitable for dynamic environments. It modifies its algorithms based on feedback to improve performance continuously.
+
+Example: A reactor that adjusts its cooling mechanisms in response to temperature fluctuations to maintain optimal operating conditions.
+
+Advantages: Provides robustness and flexibility, making it ideal for systems where conditions are unpredictable or vary frequently.
+
+</details> <details><summary>Parallel Computational Reactor</summary> <br>
+  
+Purpose: Utilizes parallel processing techniques to simulate reactor behavior more quickly and efficiently by dividing tasks across multiple processors.
+
+Example: Running multiple simulations of neutron transport in parallel to speed up the analysis of different reactor configurations.
+
+Advantages: Significantly reduces computation time, enabling the handling of complex simulations that would otherwise be impractical due to time constraints.
+
+</details> <details><summary>Stochastic Computational Reactor</summary> <br>
+  
+Purpose: Uses stochastic methods, such as Monte Carlo simulations, to model and analyze the probabilistic behavior of reactor components and processes.
+
+Example: Simulating the random paths of neutrons through a reactor core to predict the likelihood of various outcomes.
+
+Advantages: Provides high accuracy in modeling systems with inherent randomness, such as particle interactions and thermal fluctuations.
+
+</details> <details><summary>Synergistic Computational Reactor</summary> <br>
+  
+Purpose: Integrates multiple computational methods and models to simulate reactor behavior comprehensively. It leverages the strengths of each approach to provide a more holistic understanding.
+
+Example: Combining thermal-hydraulic models with neutronics simulations to analyze both heat transfer and neutron flux in a reactor core.
+
+Advantages: Offers a more complete and accurate representation of reactor systems by accounting for interactions between different physical phenomena.
+
+</details> <details><summary>Reactive Computational Reactor</summary> <br>
+  
+Purpose: A reactive reactor focuses on responding to real-time events or changes in the environment. Bots or algorithms within this reactor are designed to react quickly and appropriately to stimuli, often in high-stakes or time-sensitive situations.
+
+Example: In cybersecurity, a reactive reactor could host bots that monitor network traffic for threats. Upon detecting an anomaly, the bots immediately respond by isolating affected systems, alerting administrators, and beginning remediation processes.
+
+Advantages: This type of reactor is essential for scenarios where immediate action is required, such as in emergency response systems or real-time monitoring applications.
+
+</details> <details><summary>Deterministic Computational Reactor</summary> <br>
+  
+Purpose: Uses deterministic methods to solve reactor equations, ensuring predictable and repeatable outcomes based on defined initial conditions and parameters.
+
+Example: Predicting the steady-state behavior of a nuclear reactor core using predefined algorithms.
+
+Advantages: Provides reliable and consistent results, making it suitable for design validation and safety analysis where predictability is crucial.
+
+</details> <details><summary>Monte Carlo Computational Reactor</summary> <br>
+  
+Purpose: Utilizes Monte Carlo methods to simulate the probabilistic behavior of particles within a reactor, providing detailed insights into complex interactions.
+
+Example: Modeling the behavior of neutrons as they scatter and absorb within the reactor core to predict the distribution of neutron flux.
+
+Advantages: Highly accurate for complex systems with many interacting particles, as it accounts for randomness and variability in particle behavior.
+
+</details> <details><summary>Hybrid Computational Reactor</summary> <br>
+  
+Purpose: Combines different computational techniques to optimize simulation accuracy and efficiency, taking advantage of each method's strengths.
+
+Example: Integrating deterministic methods for fast initial estimates with Monte Carlo simulations for detailed analysis in specific areas of interest.
+
+Advantages: Balances speed and accuracy, making it effective for complex simulations that require both broad coverage and detailed insights.
+
+</details> <details><summary>Multi-Scale Computational Reactor</summary> <br>
+  
+Purpose: Simulates reactor behavior across multiple scales, from the atomic or molecular level to the full reactor scale, to capture interactions at all levels.
+
+Example: Modeling how microscopic changes in fuel composition affect the overall behavior of the reactor core.
+
+Advantages: Provides a comprehensive understanding of how different scale phenomena interact and influence reactor performance.
+
+</details> <details><summary>Thermal-Hydraulic Computational Reactor</summary> <br>
+  
+Purpose: Focuses on simulating thermal and hydraulic processes within the reactor, such as heat transfer and fluid flow, to understand temperature distribution and cooling efficiency.
+
+Example: Analyzing coolant flow in a reactor to ensure that all areas receive adequate cooling and prevent overheating.
+
+Advantages: Essential for ensuring reactor safety and efficiency, particularly in understanding how heat is managed and dissipated.
+
+</details> <details><summary>Neutronics Computational Reactor</summary> <br>
+  
+Purpose: Specializes in modeling the behavior of neutrons within a reactor, focusing on the neutron life cycle and chain reactions.
+
+Example: Calculating the neutron flux distribution to optimize reactor core design and fuel utilization.
+
+Advantages: Provides critical insights into reactor physics, enabling accurate predictions of reactor behavior and informing fuel management strategies.
+
+</details> <details><summary>AI-Driven Computational Reactor</summary> <br>
+  
+Purpose: Uses artificial intelligence and machine learning to optimize reactor simulations, enhance predictive capabilities, and automate the analysis of complex data.
+
+Example: Applying machine learning algorithms to predict reactor behavior under various operational scenarios and improve efficiency.
+
+Advantages: Can handle large datasets and complex patterns, offering improved accuracy and the ability to adapt to new information over time.
+
+</details> <details><summary>Transient Computational Reactor</summary> <br>
+  
+Purpose: Focuses on simulating non-steady-state conditions, such as startup, shutdown, and emergency scenarios, to understand reactor behavior under dynamic conditions.
+
+Example: Simulating a reactor's response to a sudden loss of coolant to assess emergency response capabilities.
+
+Advantages: Crucial for safety analysis, providing insights into how reactors behave under abnormal or emergency conditions and helping to develop robust safety protocols.
+
+</details>
 
 #
 ### Computational Reactor Node Types
