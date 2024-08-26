@@ -858,7 +858,7 @@ The Computational Error Variant Reactor (CEVR) model is a structured approach to
 
 .........................................................................................
 
-<details><summary>Computational Variant Reactor (CVR) Concept Model</summary>
+<details><summary>Computational Error Variant Reactor (CEVR) Concept Model</summary>
 <br>
 
 ```
