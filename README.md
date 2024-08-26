@@ -861,6 +861,8 @@ The Computational Error Variant Reactor (CEVR) model is a structured approach to
 <details><summary>Computational Variant Reactor (CVR) Concept Model</summary>
 <br>
 
+```
+
 1. Error Detection Layer
 
    - Function: Identify system errors and anomalies.
@@ -924,6 +926,8 @@ Data Flow Diagram (Simplified Vertical Plain Text Format):
 6. Reporting and Logging Layer
 
 Note: Each layer interacts with the other layers to ensure a holistic and adaptive error management system. Data flows from top to bottom and feedback from each layer informs improvements and adaptations in the system.
+
+```
 
 <br>
 </details>
