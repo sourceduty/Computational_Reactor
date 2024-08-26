@@ -46,7 +46,8 @@ Despite these challenges, Microsoft's engagement with SMRs could set a precedent
 
 .........................................................................................
 
-<details><summary>Small Modular Reactor (SMR) by Microsoft</summary> 
+<details><summary>Small Modular Reactor (SMR) by Microsoft</summary>
+<br>
 
 To create a simulated model for integrating Small Modular Reactors (SMRs) into Microsoft's data centers, a computational reactor approach can be utilized. This involves developing a detailed virtual simulation that can replicate the behavior of SMRs under various operational scenarios. 
 
