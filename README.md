@@ -659,7 +659,7 @@ Moreover, this controlled virtual environment can be used to accelerate the disc
 #
 ### Computational Variant Reactor (CVR) Concept Model
 
-This architectural model provides a comprehensive outline of the key components and their interactions in a Computational Variant Reactor (CVR) simulation system. Each module plays a vital role in ensuring accurate, efficient, and safe simulation of reactor behaviors under various conditions.
+This architectural model provides a comprehensive outline of the key components and their interactions in a Computational Variant Reactor (CVR) simulation system. Each module plays a vital role in ensuring accurate, efficient, and safe simulation of reactor behaviors under various conditions. A Computational Variant Reactor (CVR) is a system or framework used in computational biology and bioinformatics to model, analyze, and predict the effects of genetic variants. It integrates various computational methods and tools to handle large-scale genetic data.
 
 .........................................................................................
 
