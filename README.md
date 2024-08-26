@@ -36,9 +36,7 @@ In the realm of computational reactors, permutations are valuable for simulating
 #
 ### Microsoft Small Modular Reactors (SMRs)
 
-Microsoft has shown an interest in small modular reactors (SMRs) as part of its broader strategy to achieve carbon neutrality and provide reliable, clean energy for its data centers.
-
-Microsoft is exploring the use of Small Modular Reactors (SMRs) to power its data centers as part of its commitment to achieve carbon neutrality and ensure a reliable, clean energy supply. SMRs are smaller, factory-built nuclear reactors designed for easier and faster deployment compared to traditional large-scale reactors. Their modularity offers advantages such as reduced construction costs, increased safety, and the ability to provide a consistent power supply, making them suitable for smaller or remote sites.
+Microsoft has shown an interest in small modular reactors (SMRs) as part of its broader strategy to achieve carbon neutrality and provide reliable, clean energy for its data centers. This company is exploring the use of Small Modular Reactors (SMRs) to power its data centers as part of its commitment to achieve carbon neutrality and ensure a reliable, clean energy supply. SMRs are smaller, factory-built nuclear reactors designed for easier and faster deployment compared to traditional large-scale reactors. Their modularity offers advantages such as reduced construction costs, increased safety, and the ability to provide a consistent power supply, making them suitable for smaller or remote sites.
 
 The company’s interest in SMRs aligns with its goal to be carbon negative by 2030. SMRs can deliver the steady, carbon-free energy needed to run data centers, helping Microsoft meet its environmental targets. Unlike intermittent renewable energy sources, SMRs can provide a reliable baseload power supply, which is crucial for the continuous operation of data centers.
 
