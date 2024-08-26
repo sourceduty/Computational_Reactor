@@ -305,7 +305,8 @@ The provided Python code implements a basic framework for a "Computational Data 
 
 The reactor class manages the overall environment, feeding data into the bots, facilitating their interactions, and collecting the final outputs. By allowing multiple data sets to be processed sequentially and observing how the bots' outputs evolve, the framework enables the analysis of the effectiveness of different strategies in a controlled setting. The modular nature of the code allows easy extension, enabling more complex interactions, additional processing strategies, and more sophisticated data flows. This makes the "Computational Data Reactor" a versatile tool for experimenting with and optimizing data processing algorithms in various scenarios.
 
-<br>
+.........................................................................................
+
 <details><summary>Data Reactor Example</summary>
 <br>
 
