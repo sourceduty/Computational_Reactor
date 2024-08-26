@@ -34,7 +34,7 @@ In scientific contexts, permutations play a critical role in analyzing and solvi
 In the realm of computational reactors, permutations are valuable for simulating different scenarios and configurations of reactor components or operational sequences. By examining various permutations, engineers can test the resilience of reactor designs, optimize performance, and ensure safety standards are upheld. This method allows for comprehensive analysis without the need for physical trials, reducing risks and costs associated with experimental testing. Thus, permutations are a powerful tool in both theoretical and practical applications, enabling detailed exploration and understanding of the complex systems that underpin nuclear science and engineering.
 
 #
-### Microsoft's Small Modular Reactors (SMRs)
+### Microsoft Small Modular Reactors (SMRs)
 
 Microsoft has shown an interest in small modular reactors (SMRs) as part of its broader strategy to achieve carbon neutrality and provide reliable, clean energy for its data centers.
 
