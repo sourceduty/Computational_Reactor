@@ -715,7 +715,7 @@ However, it's important to recognize that as the complexity and scale of the pro
 
 .........................................................................................
 
-<details><summary>Simple Models for Home Laptops and PCs</summary> 
+<details><summary>Simple Models for Gaming Laptops and PCs</summary> 
 <br>
 
 1. Basic Neutron Transport Simulations
