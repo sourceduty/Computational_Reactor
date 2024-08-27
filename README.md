@@ -1238,6 +1238,13 @@ To secure public funding for this project, several avenues can be explored. Gove
 
 In addition to traditional grants, alternative funding methods can also be effective. Crowdfunding platforms like Kickstarter, GoFundMe, or Indiegogo can help raise funds directly from the public, leveraging community interest and engagement. For this to succeed, a compelling project pitch and active communication with potential backers are essential. Corporate sponsorships and partnerships with companies in relevant industries (e.g., energy, technology) can provide not only financial support but also valuable resources and expertise. Finally, tapping into the open-source community for donations or contributions can be another way to sustain and grow the project, especially if the project has a strong following or addresses a widespread need within the community.
 
+#
+### Computational Reactors Textbook
+
+![Computational Reactors Textbook](https://github.com/user-attachments/assets/2c176979-fd05-4d82-b7c7-10b7bcc0053a)
+
+Computational Reactors was written to bridge the gap between computational science and reactor engineering. This textbook aims to equip readers with a thorough understanding of computational methods and their applications in reactor physics. It covers both traditional and emerging reactor technologies, providing a comprehensive guide to the modeling, simulation, and analysis of reactors. The book is intended for advanced undergraduate and graduate students, as well as professionals in nuclear engineering, physics, and related fields. By integrating theory with practical applications, the textbook addresses the complexities of reactor design, safety, and optimization.
+
 ***
 
 > Alex: "*I made a computational microreactor model concept using custom reactive nodes.*"
