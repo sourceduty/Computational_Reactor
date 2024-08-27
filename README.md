@@ -713,6 +713,60 @@ While the conceptual models of computational reactors are designed to handle com
 
 However, it's important to recognize that as the complexity and scale of the problems increase, the limitations of normal computers become more apparent. Tasks that require real-time processing, large-scale data handling, or extensive parallelism might push the boundaries of what standard computing hardware can handle efficiently. In such cases, while a normal computer can still run the simulations or models, the performance may be significantly slower, and the results less optimal compared to what could be achieved with more specialized hardware like GPUs, FPGAs, or HPC clusters. Nevertheless, for many applications, especially during the initial stages of development and testing, normal computers and conventional programming are sufficient to explore the potential of computational reactors and lay the groundwork for more advanced implementations.
 
+.........................................................................................
+
+<details><summary>Simple Models for Home Laptops and PCs</summary> 
+<br>
+
+1. Basic Neutron Transport Simulations
+
+- Homogeneous Reactor Core: Simulate a simple reactor core with uniform material properties and basic geometry (e.g., cylindrical or spherical shape). Explore neutron flux distribution with single energy group.
+- Slab Geometry: A 1D slab model to calculate neutron flux across a simple, layered structure. Useful for introductory studies in neutron diffusion and transport.
+- Point Kinetics Model: Treat the entire core as a single point in space and study time-dependent behavior of neutron population and reactivity changes.
+
+2. Thermal-Hydraulics Simulations
+
+- Single-Channel Analysis: Model a single coolant channel to simulate temperature and pressure distribution along the channel length, assuming steady-state, single-phase flow.
+- Simple Heat Conduction: Simulate heat conduction through fuel rods or cladding materials in a 1D or 2D geometry with basic boundary conditions.
+- Natural Convection: Simulate natural convection in a reactor pool or containment structure using simplified geometries and basic fluid flow and heat transfer equations.
+
+3. Coupled Neutron Transport and Thermal-Hydraulics
+
+- Coupled 1D Reactor Model: A 1D model coupling neutron transport with heat generation and removal, solving heat transfer in a single direction, like radial heat transfer in a cylindrical fuel rod.
+- Basic Feedback Mechanisms: Incorporate simple feedback mechanisms such as Doppler broadening or fuel temperature feedback on reactivity within simplified geometries.
+
+4. Decay Heat and Radiation Transport
+
+- Decay Heat Calculation: Calculate decay heat following reactor shutdown using simple models assuming constant decay heat power or based on reactor power history.
+- Radiation Shielding: Simulate radiation transport through simple shielding materials (e.g., a slab of lead or concrete), considering mono-energetic gamma rays or neutrons.
+
+5. Fuel Depletion and Burnup
+
+- Simple Burnup Calculation: Model fuel burnup over time using simplified models assuming constant neutron flux and basic fission product accumulation equations.
+- Isotope Production: Simulate the production of key isotopes (e.g., Pu-239 from U-238) over a short operation period using a simplified fuel cycle model.
+
+6. Control Rod Analysis
+
+- 1D Control Rod Worth: Simulate the effect of inserting a control rod into a simple reactor core, using a 1D model to calculate changes in neutron flux and reactivity.
+- Control Rod Drop Analysis: Model the transient behavior following rapid control rod insertion using 1D or point kinetics models.
+
+7. Core Configuration Studies
+
+- Lattice Cell Calculation: Model a single fuel lattice cell to explore neutron flux distribution within the cell, typically involving 2D geometry with a coarse mesh.
+- Reflector Studies: Examine the effect of different reflectors (e.g., water, graphite) on a simple reactor core using basic neutron transport in simple geometries.
+
+8. Transient Analysis
+
+- Simple Ramp Reactivity Insertion: Study the reactor’s response to slow reactivity insertion using point kinetics models, exploring concepts like reactor period and prompt jump.
+- Small Break LOCA: Simulate a simplified version of a Loss of Coolant Accident scenario, focusing on fluid dynamics and thermal response in a single pipe or channel.
+
+9. Benchmark Problems
+
+- C5G7 Benchmark: Simplify the well-known benchmark by focusing on a single energy group or small section, using coarse meshes and basic geometries to make it manageable on a laptop.
+
+<br>
+</details>
+
 #
 ### Computational Reactor Hardware
 
