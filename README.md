@@ -767,6 +767,55 @@ However, it's important to recognize that as the complexity and scale of the pro
 <br>
 </details>
 
+<details><summary>Minimum Hardware Requirements for Simple Reactor Models</summary>
+<br>
+
+1. Processor (CPU)
+   - Type: Intel Core i5 or AMD Ryzen 5 (or equivalent)
+   - Cores/Threads: At least 4 cores / 8 threads
+   - Clock Speed: 2.5 GHz or higher
+   - Notes: A multi-core processor is important for running simulations, especially those that can take advantage of parallel processing.
+
+2. Memory (RAM)
+   - Minimum: 8 GB
+   - Recommended: 16 GB
+   - Notes: For very simple models, 8 GB may suffice, but 16 GB is recommended to comfortably handle slightly more complex simulations without running out of memory.
+
+3. Storage
+   - Minimum: 256 GB SSD
+   - Recommended: 512 GB or higher SSD
+   - Notes: An SSD is preferred over an HDD for faster data access. 256 GB should be enough for basic use, but 512 GB or more provides additional space for larger datasets and software.
+
+4. Graphics (GPU)
+   - Type: Integrated Graphics (e.g., Intel UHD, AMD Radeon Vega) for basic models
+   - Dedicated GPU Recommended: NVIDIA GTX 1050 / AMD RX 560 or better for handling any visualization or simulations that may benefit from GPU acceleration.
+   - Notes: Basic neutron transport and thermal-hydraulics simulations generally do not require a powerful GPU, but a dedicated GPU can improve performance for more complex models and visualization tasks.
+
+5. Operating System
+   - Windows: Windows 10 or later
+   - Linux: Ubuntu 18.04 or later, or similar distributions
+   - macOS: macOS 10.15 or later
+   - Notes: Linux is often preferred for scientific computing due to better support for certain simulation tools, but Windows and macOS are also viable.
+
+6. Software
+   - Neutron Transport & Thermal-Hydraulics: Open-source or commercial software like MCNP, OpenMC, Serpent, or ANSYS Fluent.
+   - Simple Development Environment: Python with scientific libraries (NumPy, SciPy, Matplotlib), or MATLAB for custom code.
+   - Notes: Ensure the software you plan to use is compatible with your operating system and hardware. Some tools may have additional specific requirements.
+
+7. Display
+   - Minimum Resolution: 1920 x 1080 (Full HD)
+   - Recommended Resolution: 2560 x 1440 or higher
+   - Notes: A higher resolution display is useful for viewing detailed simulation results, but not strictly necessary for basic models.
+
+8. Other Considerations
+   - Cooling: Ensure adequate cooling, as prolonged simulations can generate significant heat.
+   - Battery Life: Simulations can be power-intensive; working while plugged in is recommended for laptops.
+
+These specifications should allow you to run the simple reactor models described with reasonable performance. For more advanced or resource-intensive simulations, you might need higher-end hardware, especially more RAM and a faster CPU.
+
+<br>
+</details>
+
 #
 ### Computational Reactor Hardware
 
