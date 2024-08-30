@@ -37,15 +37,6 @@ The flexibility of the computational reactor lies in its ability to simulate dif
 A Computational Neuron Reactor is an advanced conceptual model aimed at simulating the behavior of neurons and neural networks in a highly detailed and scalable manner. It draws inspiration from both computational neuroscience and artificial intelligence, integrating principles from these fields to create a powerful tool for understanding brain function and developing new technologies. This report explores the capabilities, applications, and potential future directions of the Computational Neuron Reactor, highlighting its relevance in modern science and technology.
 
 #
-### Computational Reactor Combinatorics
-
-Permutations are a key concept in combinatorics, which is a branch of mathematics focused on counting, arranging, and combining objects. A permutation refers to the different ways in which a set of items can be arranged or ordered. For instance, if you have a set of three items, like {A, B, C}, permutations would involve all possible sequences of these items, such as ABC, ACB, BAC, BCA, CAB, and CBA. The study of permutations helps to understand the structure and behavior of systems where the order of elements matters.
-
-In scientific contexts, permutations play a critical role in analyzing and solving problems where the sequence or order of elements can affect outcomes. This is particularly important in fields such as molecular biology, where the arrangement of molecules can influence biochemical reactions, or in computer science, where different sequences of operations can lead to varied computational results. By exploring all possible permutations, scientists can predict and understand the potential behaviors of complex systems, identify optimal arrangements, and assess the robustness of systems under different configurations.
-
-In the realm of computational reactors, permutations are valuable for simulating different scenarios and configurations of reactor components or operational sequences. By examining various permutations, engineers can test the resilience of reactor designs, optimize performance, and ensure safety standards are upheld. This method allows for comprehensive analysis without the need for physical trials, reducing risks and costs associated with experimental testing. Thus, permutations are a powerful tool in both theoretical and practical applications, enabling detailed exploration and understanding of the complex systems that underpin nuclear science and engineering.
-
-#
 ### Computational CPU Reactor
 
 A Computational CPU Reactor is a virtual simulation framework designed to replicate the behavior and performance of central processing units (CPUs) under various conditions. This model is analogous to a physical reactor, focusing on understanding and optimizing the complex interactions within a CPU. By simulating different operational scenarios, engineers and researchers can predict how a CPU will respond to different workloads, thermal conditions, power management strategies, and other critical factors. The ultimate goal of a Computational CPU Reactor is to provide a safe and efficient platform for testing and improving CPU designs without the cost and risk of physical prototyping.
@@ -120,6 +111,15 @@ Simulation Process:
 
 <br>
 </details>
+
+#
+### Computational Reactor Combinatorics
+
+Permutations are a key concept in combinatorics, which is a branch of mathematics focused on counting, arranging, and combining objects. A permutation refers to the different ways in which a set of items can be arranged or ordered. For instance, if you have a set of three items, like {A, B, C}, permutations would involve all possible sequences of these items, such as ABC, ACB, BAC, BCA, CAB, and CBA. The study of permutations helps to understand the structure and behavior of systems where the order of elements matters.
+
+In scientific contexts, permutations play a critical role in analyzing and solving problems where the sequence or order of elements can affect outcomes. This is particularly important in fields such as molecular biology, where the arrangement of molecules can influence biochemical reactions, or in computer science, where different sequences of operations can lead to varied computational results. By exploring all possible permutations, scientists can predict and understand the potential behaviors of complex systems, identify optimal arrangements, and assess the robustness of systems under different configurations.
+
+In the realm of computational reactors, permutations are valuable for simulating different scenarios and configurations of reactor components or operational sequences. By examining various permutations, engineers can test the resilience of reactor designs, optimize performance, and ensure safety standards are upheld. This method allows for comprehensive analysis without the need for physical trials, reducing risks and costs associated with experimental testing. Thus, permutations are a powerful tool in both theoretical and practical applications, enabling detailed exploration and understanding of the complex systems that underpin nuclear science and engineering.
 
 #
 ### Computational Reactor Types
