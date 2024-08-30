@@ -38,7 +38,7 @@ The robustness of computational microcontroller reactors lies in their ability t
 
 .........................................................................................
 
-<details><summary>Example Computational Microontroller Reactor</summary>
+<details><summary>Example Computational Microcontroller Reactor</summary>
 <br>
 
 ```
@@ -130,6 +130,116 @@ System Output
 The ATmega2560-based model described above serves as an illustrative example of a Computational Microcontroller Reactor, a system designed to control and monitor environmental parameters such as temperature and pressure. By leveraging the capabilities of the ATmega2560 microcontroller, this model can efficiently handle real-time data acquisition from sensors, process control signals for actuators, and ensure the system remains within predefined safety limits. The framework incorporates a digital temperature sensor and an analog pressure sensor to provide accurate feedback, which is crucial for maintaining stable operation. The microcontroller's peripheral interfaces, including ADC, PWM, and GPIO, facilitate seamless integration of sensors and actuators, enabling precise control over a heating element and a cooling fan. The control logic is implemented as a continuous loop, ensuring regular monitoring and adjustment of system conditions, thus allowing the reactor to respond dynamically to changes in its environment.
 
 This model exemplifies how microcontrollers like the ATmega2560 can be used in embedded systems to create robust and scalable solutions for environmental control in small-scale reactors. The incorporation of safety protocols, such as overtemperature shutdown and overpressure relief, highlights the importance of fault detection and mitigation strategies in maintaining system integrity and preventing accidents. Furthermore, the system's ability to log data and perform periodic self-tests demonstrates how computational microcontroller reactors can not only maintain operational stability but also provide valuable diagnostic information for future analysis and optimization. This approach allows for continuous improvement and adaptation, making it a powerful tool in various applications, from industrial process control to research and educational settings, where reliability and safety are paramount.
+```
+
+<br>
+</details>
+
+#
+### Computational CPU Reactor
+
+A Computational CPU Reactor is a virtual simulation framework designed to replicate the behavior and performance of central processing units (CPUs) under various conditions. This model is analogous to a physical reactor, focusing on understanding and optimizing the complex interactions within a CPU. By simulating different operational scenarios, engineers and researchers can predict how a CPU will respond to different workloads, thermal conditions, power management strategies, and other critical factors. The ultimate goal of a Computational CPU Reactor is to provide a safe and efficient platform for testing and improving CPU designs without the cost and risk of physical prototyping.
+
+.........................................................................................
+
+<details><summary>Example Computational CPU Reactor</summary>
+<br>
+
+Intel Core i7-14700K
+
+```
+Computational Reactor Simulation Model Template
+
+1. System Configuration
+
+1.1 Hardware Configuration
+- CPU: Intel Core i7-14700K
+- Cores: 12
+- Threads: 24
+- Base Clock Speed: 3.4 GHz
+- Boost Clock Speed: Up to 5.0 GHz
+- L3 Cache: 25 MB
+- TDP: 125W (Adjust based on overclocking if applicable)
+
+- Memory: 
+- Type: DDR4 or DDR5 (Choose based on motherboard compatibility)
+- Capacity: 32GB (minimum recommended for large simulations)
+- Speed: 3200 MHz or higher (DDR4), 4800 MHz or higher (DDR5)
+
+- Storage: 
+- Type: NVMe SSD
+- Capacity: 1TB (minimum recommended, with additional storage as needed)
+- Purpose: Fast data access and write speeds for simulation output
+
+- GPU (Optional, if GPU acceleration is used):
+- Model: NVIDIA RTX 3080 or higher (or equivalent)
+- VRAM: 10GB or more
+- Purpose: Accelerating parallel processing tasks in simulations
+
+- Cooling:
+- Type: High-performance air or liquid cooling solution
+- Purpose: Maintain optimal temperatures, prevent throttling during intensive tasks
+
+- Power Supply:
+- Capacity: 750W (minimum recommended)
+- Efficiency: 80+ Gold or higher
+
+1.2 Software Configuration
+- Operating System: 
+- Linux (Ubuntu 20.04 LTS or newer) or Windows 10/11 (Professional)
+
+- Compiler: 
+- GCC for Linux, MSVC for Windows
+- Versions: Latest stable release
+
+- Simulation Software:
+- Name: OpenMC, Serpent, or other suitable computational reactor physics software
+- Version: Latest stable release
+- Installation: Via package manager (e.g., apt-get install openmc) or source compilation
+
+- Libraries and Dependencies:
+- Python: 3.8 or newer
+- NumPy: Latest stable version
+- SciPy: Latest stable version
+- MPI: OpenMPI (for parallel processing)
+
+2. Simulation Setup
+
+2.1 Input Data Preparation
+- Geometry Definition:
+- Reactor core geometry: Cylindrical, Spherical, etc.
+- Dimensions: Provide exact measurements
+- Materials: Define fuel, moderator, control rods materials (e.g., UO2, H2O, Zr)
+
+- Material Properties:
+- Fuel composition: Define isotopic fractions
+- Temperature: Set initial temperatures (e.g., 300K)
+- Cross-section libraries: ENDF/B-VIII.0 or other relevant libraries
+
+2.2 Initial Conditions
+- Power Level: 1000 MW (example value, adjust based on reactor design)
+- Coolant Flow Rate: Specify in kg/s
+- Control Rod Position: Initial position as a percentage (e.g., 50% withdrawn)
+
+2.3 Simulation Parameters
+- Time Steps: Define time resolution (e.g., 0.1s per step)
+- Total Simulation Time: Specify duration (e.g., 3600s for 1-hour simulation)
+- Output Frequency: Set how often to output results (e.g., every 10 steps)
+
+2.4 Output and Analysis
+- Output Data: Neutron flux, temperature distribution, power output
+- Data Format: HDF5 or CSV for compatibility with analysis tools
+- Post-processing: Scripts to analyze and visualize results (e.g., Python scripts with Matplotlib)
+
+3. Optimization and Testing
+
+3.1 Performance Optimization
+- Multi-threading: Enable and configure multi-threading to utilize all CPU cores
+- Memory Usage: Monitor and optimize memory allocation
+
+3.2 Validation and Testing
+- Benchmark Simulations: Compare results with known benchmarks (e.g., International Reactor Physics Experiments Evaluation Project - IRPhEP)
+- Verification: Cross-check results with analytical solutions or experimental data
 ```
 
 <br>
@@ -244,116 +354,6 @@ Summary: This example models a simple interaction scenario between cooperative a
 ### Computational Neuron Reactor
 
 A Computational Neuron Reactor is an advanced conceptual model aimed at simulating the behavior of neurons and neural networks in a highly detailed and scalable manner. It draws inspiration from both computational neuroscience and artificial intelligence, integrating principles from these fields to create a powerful tool for understanding brain function and developing new technologies. This report explores the capabilities, applications, and potential future directions of the Computational Neuron Reactor, highlighting its relevance in modern science and technology.
-
-#
-### Computational CPU Reactor
-
-A Computational CPU Reactor is a virtual simulation framework designed to replicate the behavior and performance of central processing units (CPUs) under various conditions. This model is analogous to a physical reactor, focusing on understanding and optimizing the complex interactions within a CPU. By simulating different operational scenarios, engineers and researchers can predict how a CPU will respond to different workloads, thermal conditions, power management strategies, and other critical factors. The ultimate goal of a Computational CPU Reactor is to provide a safe and efficient platform for testing and improving CPU designs without the cost and risk of physical prototyping.
-
-.........................................................................................
-
-<details><summary>Example Computational CPU Reactor</summary>
-<br>
-
-Intel Core i7-14700K
-
-```
-Computational Reactor Simulation Model Template
-
-1. System Configuration
-
-1.1 Hardware Configuration
-- CPU: Intel Core i7-14700K
-- Cores: 12
-- Threads: 24
-- Base Clock Speed: 3.4 GHz
-- Boost Clock Speed: Up to 5.0 GHz
-- L3 Cache: 25 MB
-- TDP: 125W (Adjust based on overclocking if applicable)
-
-- Memory: 
-- Type: DDR4 or DDR5 (Choose based on motherboard compatibility)
-- Capacity: 32GB (minimum recommended for large simulations)
-- Speed: 3200 MHz or higher (DDR4), 4800 MHz or higher (DDR5)
-
-- Storage: 
-- Type: NVMe SSD
-- Capacity: 1TB (minimum recommended, with additional storage as needed)
-- Purpose: Fast data access and write speeds for simulation output
-
-- GPU (Optional, if GPU acceleration is used):
-- Model: NVIDIA RTX 3080 or higher (or equivalent)
-- VRAM: 10GB or more
-- Purpose: Accelerating parallel processing tasks in simulations
-
-- Cooling:
-- Type: High-performance air or liquid cooling solution
-- Purpose: Maintain optimal temperatures, prevent throttling during intensive tasks
-
-- Power Supply:
-- Capacity: 750W (minimum recommended)
-- Efficiency: 80+ Gold or higher
-
-1.2 Software Configuration
-- Operating System: 
-- Linux (Ubuntu 20.04 LTS or newer) or Windows 10/11 (Professional)
-
-- Compiler: 
-- GCC for Linux, MSVC for Windows
-- Versions: Latest stable release
-
-- Simulation Software:
-- Name: OpenMC, Serpent, or other suitable computational reactor physics software
-- Version: Latest stable release
-- Installation: Via package manager (e.g., apt-get install openmc) or source compilation
-
-- Libraries and Dependencies:
-- Python: 3.8 or newer
-- NumPy: Latest stable version
-- SciPy: Latest stable version
-- MPI: OpenMPI (for parallel processing)
-
-2. Simulation Setup
-
-2.1 Input Data Preparation
-- Geometry Definition:
-- Reactor core geometry: Cylindrical, Spherical, etc.
-- Dimensions: Provide exact measurements
-- Materials: Define fuel, moderator, control rods materials (e.g., UO2, H2O, Zr)
-
-- Material Properties:
-- Fuel composition: Define isotopic fractions
-- Temperature: Set initial temperatures (e.g., 300K)
-- Cross-section libraries: ENDF/B-VIII.0 or other relevant libraries
-
-2.2 Initial Conditions
-- Power Level: 1000 MW (example value, adjust based on reactor design)
-- Coolant Flow Rate: Specify in kg/s
-- Control Rod Position: Initial position as a percentage (e.g., 50% withdrawn)
-
-2.3 Simulation Parameters
-- Time Steps: Define time resolution (e.g., 0.1s per step)
-- Total Simulation Time: Specify duration (e.g., 3600s for 1-hour simulation)
-- Output Frequency: Set how often to output results (e.g., every 10 steps)
-
-2.4 Output and Analysis
-- Output Data: Neutron flux, temperature distribution, power output
-- Data Format: HDF5 or CSV for compatibility with analysis tools
-- Post-processing: Scripts to analyze and visualize results (e.g., Python scripts with Matplotlib)
-
-3. Optimization and Testing
-
-3.1 Performance Optimization
-- Multi-threading: Enable and configure multi-threading to utilize all CPU cores
-- Memory Usage: Monitor and optimize memory allocation
-
-3.2 Validation and Testing
-- Benchmark Simulations: Compare results with known benchmarks (e.g., International Reactor Physics Experiments Evaluation Project - IRPhEP)
-- Verification: Cross-check results with analytical solutions or experimental data
-```
-
-<br>
-</details>
 
 #
 ### Microsoft Small Modular Reactors (SMRs)
