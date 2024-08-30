@@ -80,14 +80,17 @@ CompetitiveBot2.energy = 100
 Behavior Definitions:
 
 CooperativeBot:
+
 For each CooperativeBot in Bots:
 Select another bot at random from Bots
 Transfer 10 units of energy to the selected bot
 
 CompetitiveBot:
+
 For each CompetitiveBot in Bots:
 Select another bot at random from Bots
 Steal 10 units of energy from the selected bot
+
 Reactor Simulation:
 
 Set the number of simulation steps:
@@ -98,6 +101,7 @@ Print the current step number
 For each bot in Bots:
 Execute the bot's behavior
 Print the bot's current energy level
+
 Output Example:
 
 After each step, print the energy level of each bot:
