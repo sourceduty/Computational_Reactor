@@ -94,6 +94,7 @@ CompetitiveBot:
 For each CompetitiveBot in Bots:
 Select another bot at random from Bots
 Steal 10 units of energy from the selected bot
+
 Reactor Simulation:
 
 Set the number of simulation steps:
