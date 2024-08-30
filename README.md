@@ -1650,6 +1650,8 @@ Computational Reactors was written to bridge the gap between computational scien
 [Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 <br>
 [Computational Theory](https://github.com/sourceduty/Computational_Theory)
+<br>
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
