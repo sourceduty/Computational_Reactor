@@ -42,6 +42,8 @@ The flexibility of the computational reactor lies in its ability to simulate dif
 <br>
 
 ```
+Computational Bot Reactor Model Example
+
 Concept: A computational bot reactor is a simulated environment where multiple bots can interact. These interactions can be competitive or cooperative, influencing the system's overall behavior.
 
 Components:
@@ -69,9 +71,11 @@ Pseudocode for the Computational Bot Reactor Model
 Initialization:
 
 Create a list of bots:
+
 Bots = [CooperativeBot1, CooperativeBot2, CompetitiveBot1, CompetitiveBot2]
 
 Each bot has an initial energy level:
+
 CooperativeBot1.energy = 100
 CooperativeBot2.energy = 100
 CompetitiveBot1.energy = 100
@@ -90,14 +94,15 @@ CompetitiveBot:
 For each CompetitiveBot in Bots:
 Select another bot at random from Bots
 Steal 10 units of energy from the selected bot
-
 Reactor Simulation:
 
 Set the number of simulation steps:
 
 Steps = 5
+
 For each step in Steps:
 Print the current step number
+
 For each bot in Bots:
 Execute the bot's behavior
 Print the bot's current energy level
@@ -107,9 +112,22 @@ Output Example:
 After each step, print the energy level of each bot:
 
 Step 1:
+
 CooperativeBot1 shares 10 energy with CooperativeBot2
 CooperativeBot2 shares 10 energy with CompetitiveBot1
 CompetitiveBot1 steals 10 energy from CooperativeBot2
+CompetitiveBot2 steals 10 energy from CooperativeBot1
+
+Step 2:
+
+CooperativeBot1 shares 10 energy with CompetitiveBot2
+CooperativeBot2 shares 10 energy with CooperativeBot1
+CompetitiveBot1 steals 10 energy from CooperativeBot2
+CompetitiveBot2 steals 10 energy from CooperativeBot1
+
+... (and so on for each step)
+
+Summary: This example models a simple interaction scenario between cooperative and competitive bots within a computational reactor. The energy levels of bots change based on their interactions, illustrating the dynamic nature of such a system. This model can be further expanded to include more complex behaviors, interaction rules, and types of bots.
 ```
 
 <br>
