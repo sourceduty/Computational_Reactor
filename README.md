@@ -60,67 +60,67 @@ Computational Reactor Simulation Model Template
 
 1.1 Hardware Configuration
 - CPU: Intel Core i7-14700K
-  - Cores: 12
-  - Threads: 24
-  - Base Clock Speed: 3.4 GHz
-  - Boost Clock Speed: Up to 5.0 GHz
-  - L3 Cache: 25 MB
-  - TDP: 125W (Adjust based on overclocking if applicable)
+- Cores: 12
+- Threads: 24
+- Base Clock Speed: 3.4 GHz
+- Boost Clock Speed: Up to 5.0 GHz
+- L3 Cache: 25 MB
+- TDP: 125W (Adjust based on overclocking if applicable)
 
 - Memory: 
-  - Type: DDR4 or DDR5 (Choose based on motherboard compatibility)
-  - Capacity: 32GB (minimum recommended for large simulations)
-  - Speed: 3200 MHz or higher (DDR4), 4800 MHz or higher (DDR5)
+- Type: DDR4 or DDR5 (Choose based on motherboard compatibility)
+- Capacity: 32GB (minimum recommended for large simulations)
+- Speed: 3200 MHz or higher (DDR4), 4800 MHz or higher (DDR5)
 
 - Storage: 
-  - Type: NVMe SSD
-  - Capacity: 1TB (minimum recommended, with additional storage as needed)
-  - Purpose: Fast data access and write speeds for simulation output
+- Type: NVMe SSD
+- Capacity: 1TB (minimum recommended, with additional storage as needed)
+- Purpose: Fast data access and write speeds for simulation output
 
 - GPU (Optional, if GPU acceleration is used):
-  - Model: NVIDIA RTX 3080 or higher (or equivalent)
-  - VRAM: 10GB or more
-  - Purpose: Accelerating parallel processing tasks in simulations
+- Model: NVIDIA RTX 3080 or higher (or equivalent)
+- VRAM: 10GB or more
+- Purpose: Accelerating parallel processing tasks in simulations
 
 - Cooling:
-  - Type: High-performance air or liquid cooling solution
-  - Purpose: Maintain optimal temperatures, prevent throttling during intensive tasks
+- Type: High-performance air or liquid cooling solution
+- Purpose: Maintain optimal temperatures, prevent throttling during intensive tasks
 
 - Power Supply:
-  - Capacity: 750W (minimum recommended)
-  - Efficiency: 80+ Gold or higher
+- Capacity: 750W (minimum recommended)
+- Efficiency: 80+ Gold or higher
 
 1.2 Software Configuration
 - Operating System: 
-  - Linux (Ubuntu 20.04 LTS or newer) or Windows 10/11 (Professional)
-  
+- Linux (Ubuntu 20.04 LTS or newer) or Windows 10/11 (Professional)
+
 - Compiler: 
-  - GCC for Linux, MSVC for Windows
-  - Versions: Latest stable release
+- GCC for Linux, MSVC for Windows
+- Versions: Latest stable release
 
 - Simulation Software:
-  - Name: OpenMC, Serpent, or other suitable computational reactor physics software
-  - Version: Latest stable release
-  - Installation: Via package manager (e.g., apt-get install openmc) or source compilation
+- Name: OpenMC, Serpent, or other suitable computational reactor physics software
+- Version: Latest stable release
+- Installation: Via package manager (e.g., apt-get install openmc) or source compilation
 
 - Libraries and Dependencies:
-  - Python: 3.8 or newer
-  - NumPy: Latest stable version
-  - SciPy: Latest stable version
-  - MPI: OpenMPI (for parallel processing)
+- Python: 3.8 or newer
+- NumPy: Latest stable version
+- SciPy: Latest stable version
+- MPI: OpenMPI (for parallel processing)
 
 2. Simulation Setup
 
 2.1 Input Data Preparation
 - Geometry Definition:
-  - Reactor core geometry: Cylindrical, Spherical, etc.
-  - Dimensions: Provide exact measurements
-  - Materials: Define fuel, moderator, control rods materials (e.g., UO2, H2O, Zr)
+- Reactor core geometry: Cylindrical, Spherical, etc.
+- Dimensions: Provide exact measurements
+- Materials: Define fuel, moderator, control rods materials (e.g., UO2, H2O, Zr)
 
 - Material Properties:
-  - Fuel composition: Define isotopic fractions
-  - Temperature: Set initial temperatures (e.g., 300K)
-  - Cross-section libraries: ENDF/B-VIII.0 or other relevant libraries
+- Fuel composition: Define isotopic fractions
+- Temperature: Set initial temperatures (e.g., 300K)
+- Cross-section libraries: ENDF/B-VIII.0 or other relevant libraries
 
 2.2 Initial Conditions
 - Power Level: 1000 MW (example value, adjust based on reactor design)
