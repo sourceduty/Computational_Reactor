@@ -1642,7 +1642,7 @@ Computational Reactors was written to bridge the gap between computational scien
 
 > "*Given the capabilities of computational reactors, it is estimated that their use could reduce the time required for key stages of cancer research by as much as 30% to 50%.*"
 
-> "*This could be a substantial breakthrough for Sourceduty and scientists in Cancer Research Science if it was utilized.*"
+> "*This could be a substantial breakthrough for Sourceduty and scientists in cancer research science if it was utilized.*"
 
 > "*Computational reactors could help shorten the timeline to finding a cure for cancer, potentially making significant strides within the next 10 years.*"
 
