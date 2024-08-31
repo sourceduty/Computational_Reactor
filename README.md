@@ -1650,7 +1650,7 @@ Computational Reactors was written to bridge the gap between computational scien
 
 > "*I'm not planning on leading the development and management of computational reactors for cancer. In this science, my work is the computations.*"
 
-> "*Evolving and adapting computational reactor ccience and theory is a major breakthrough for myself and Sourceduty.*"
+> "*Evolving and adapting computational reactor science and theory is a major breakthrough for myself and Sourceduty.*"
 
 #
 ### Related Links
