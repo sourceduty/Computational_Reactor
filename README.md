@@ -27,7 +27,7 @@ Integrating knowledge from disciplines such as reactor physics, numerical analys
 Computational reactors, as virtual simulation models, play a crucial role in this field. These simulations mimic the complex physical processes occurring in reactors, such as neutron behavior, heat generation, and fluid dynamics, allowing scientists and engineers to predict outcomes without the risks and costs of physical experiments. Widely used in the design, optimization, and safety analysis of nuclear reactors, computational reactors facilitate the testing of various scenarios to identify potential issues, improve efficiency, and ensure safety standards. Furthermore, they provide a valuable platform for education and ongoing research into innovative reactor designs, solidifying their role as indispensable tools in the advancement of nuclear technology.
 
 #
-### Computational Reactor Skills and Knowledge Requirements
+### Computational Reactor Science and Knowledge Requirements
 
 Computational reactor scientists require a high level of intelligence, marked by strong analytical and problem-solving skills. Their work involves complex simulations of nuclear reactors, which demand a deep understanding of physics, particularly nuclear physics, as well as advanced mathematics and computational methods. These scientists must be adept at using sophisticated algorithms and numerical techniques to model and predict reactor behavior under various conditions. This analytical acumen allows them to interpret large datasets, recognize patterns, and anticipate potential issues within the reactor systems.
 
