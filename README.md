@@ -1680,55 +1680,55 @@ Purpose: Simulate heat transfer in a reactor.
 Parts Needed: Copper tubing, electric heater, water pump, temperature sensors, insulated container, microcontroller.
 How It Works: Circulate water through heated copper tubing, monitor temperature changes.
 
-3. Neutron Diffusion Model
+2. Neutron Diffusion Model
    
 Purpose: Demonstrate neutron scattering using a mechanical analogy.
 Parts Needed: Shallow container, small ball bearings (neutrons), larger balls (atoms).
 How It Works: Roll ball bearings into a container to observe scattering and absorption.
 
-5. Digital Reactor Simulation
+3. Digital Reactor Simulation
    
 Purpose: Model reactor control systems.
 Parts Needed: Microcontroller, LEDs, potentiometer, display screen.
 How It Works: Use microcontroller to simulate reactor behavior and control reactivity.
 
-7. Radiation Detection
+4. Radiation Detection
    
 Purpose: Measure radiation levels.
 Parts Needed: Geiger-Müller tube, power supply, microcontroller, display screen, low-level radioactive sources.
 How It Works: Detect radiation with Geiger tube, display count rate on screen.
 
-9. Fluid Dynamics Reactor Model
+5. Fluid Dynamics Reactor Model
     
 Purpose: Simulate coolant flow in a reactor.
 Parts Needed: Clear tubing, water pump, dye (food coloring), flow sensors, microcontroller.
 How It Works: Circulate dyed water through tubing, observe flow patterns and measure with sensors.
 
-11. Simple Chain Reaction Model (Dominoes)
+6. Simple Chain Reaction Model (Dominoes)
     
 Purpose: Visualize chain reactions.
 Parts Needed: Dominoes or small tiles.
 How It Works: Set up dominoes in a chain, push the first one to start a chain reaction.
 
-13. Electromagnetic Induction Reactor
+7. Electromagnetic Induction Reactor
     
 Purpose: Demonstrate induction principles similar to those in reactor cooling systems.
 Parts Needed: Coiled wire, magnet, LED, small generator (hand-cranked).
 How It Works: Move magnet through coil to induce current, light up LED.
 
-15. Control Rod Simulation (Magnetic Fields)
+8. Control Rod Simulation (Magnetic Fields)
     
 Purpose: Demonstrate control rod effect using magnetic fields.
 Parts Needed: Small magnets, iron filings, non-magnetic container, ruler.
 How It Works: Arrange magnets to represent control rods, use iron filings to visualize magnetic field changes.
 
-17. Pebble Bed Reactor Model
+9. Pebble Bed Reactor Model
     
 Purpose: Model a pebble bed reactor core.
 Parts Needed: Clear container, small balls (ping-pong balls), water, thermometer.
 How It Works: Fill container with balls, pour water, measure temperature changes to simulate coolant flow.
 
-19. Solar Power Reactor (Solar Thermal Collector)
+10. Solar Power Reactor (Solar Thermal Collector)
     
 Purpose: Utilize solar energy to demonstrate reactor heat generation.
 Parts Needed: Black-painted container, glass cover, water, thermometer.
