@@ -1660,6 +1660,82 @@ Additionally, introducing external influences during the simulation can signific
 
 Overall, incorporating dynamic environmental changes and external influences into simulations creates a more comprehensive and adaptable model. This not only aids in predicting outcomes under various scenarios but also provides a deeper understanding of how reactions behave in non-ideal conditions, leading to more robust and applicable results.
 
+#
+### Build a Physical Computational Reactor Model
+
+![Store Bought Scientist](https://github.com/user-attachments/assets/e9863764-7a7a-452a-b3b2-6f7ad07215de)
+
+Creating simple physical computational reactors at home using store-bought parts offers an exciting and educational way to explore the principles of nuclear reactor physics. These projects, while not involving actual nuclear reactions, simulate key aspects of reactor operation such as heat transfer, neutron diffusion, radiation detection, and reactor control. By using common materials like copper tubing, ball bearings, microcontrollers, and even items as simple as dominoes, enthusiasts can model the behavior of reactor systems in a safe and accessible environment. These models help to visualize and understand the complex dynamics of real reactors, offering a hands-on approach to learning about heat exchange, neutron scattering, and the importance of control mechanisms in maintaining reactor stability.
+
+These homemade reactor models not only serve as excellent educational tools but also inspire curiosity and innovation among hobbyists, students, and educators. Projects range from thermal reactor models that simulate heat transfer using water pumps and heaters, to digital simulations that use microcontrollers to mimic reactor behavior and control systems. By building these models, individuals can grasp fundamental concepts such as chain reactions, electromagnetic induction, and fluid dynamics, all critical to the operation of actual reactors. These simplified reactors thus provide a tangible way to explore nuclear science, fostering a deeper appreciation for the technology that powers much of the modern world, while ensuring safety and understanding in a controlled setting.
+
+...................................................................................................................................................
+
+<details><summary>Simple DIY Physical Computational Reactor Models</summary>
+<br>
+
+1. Thermal Reactor Model
+   
+Purpose: Simulate heat transfer in a reactor.
+Parts Needed: Copper tubing, electric heater, water pump, temperature sensors, insulated container, microcontroller.
+How It Works: Circulate water through heated copper tubing, monitor temperature changes.
+
+3. Neutron Diffusion Model
+   
+Purpose: Demonstrate neutron scattering using a mechanical analogy.
+Parts Needed: Shallow container, small ball bearings (neutrons), larger balls (atoms).
+How It Works: Roll ball bearings into a container to observe scattering and absorption.
+
+5. Digital Reactor Simulation
+   
+Purpose: Model reactor control systems.
+Parts Needed: Microcontroller, LEDs, potentiometer, display screen.
+How It Works: Use microcontroller to simulate reactor behavior and control reactivity.
+
+7. Radiation Detection
+   
+Purpose: Measure radiation levels.
+Parts Needed: Geiger-Müller tube, power supply, microcontroller, display screen, low-level radioactive sources.
+How It Works: Detect radiation with Geiger tube, display count rate on screen.
+
+9. Fluid Dynamics Reactor Model
+    
+Purpose: Simulate coolant flow in a reactor.
+Parts Needed: Clear tubing, water pump, dye (food coloring), flow sensors, microcontroller.
+How It Works: Circulate dyed water through tubing, observe flow patterns and measure with sensors.
+
+11. Simple Chain Reaction Model (Dominoes)
+    
+Purpose: Visualize chain reactions.
+Parts Needed: Dominoes or small tiles.
+How It Works: Set up dominoes in a chain, push the first one to start a chain reaction.
+
+13. Electromagnetic Induction Reactor
+    
+Purpose: Demonstrate induction principles similar to those in reactor cooling systems.
+Parts Needed: Coiled wire, magnet, LED, small generator (hand-cranked).
+How It Works: Move magnet through coil to induce current, light up LED.
+
+15. Control Rod Simulation (Magnetic Fields)
+    
+Purpose: Demonstrate control rod effect using magnetic fields.
+Parts Needed: Small magnets, iron filings, non-magnetic container, ruler.
+How It Works: Arrange magnets to represent control rods, use iron filings to visualize magnetic field changes.
+
+17. Pebble Bed Reactor Model
+    
+Purpose: Model a pebble bed reactor core.
+Parts Needed: Clear container, small balls (ping-pong balls), water, thermometer.
+How It Works: Fill container with balls, pour water, measure temperature changes to simulate coolant flow.
+
+19. Solar Power Reactor (Solar Thermal Collector)
+    
+Purpose: Utilize solar energy to demonstrate reactor heat generation.
+Parts Needed: Black-painted container, glass cover, water, thermometer.
+How It Works: Place the container in the sun, measure temperature changes due to solar heating.
+
+<br>
+</details>
 
 #
 ### Public Funding for Computational Reactors
