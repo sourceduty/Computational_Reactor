@@ -1674,6 +1674,8 @@ These homemade reactor models not only serve as excellent educational tools but 
 <details><summary>Simple DIY Physical Computational Reactor Models</summary>
 <br>
 
+```
+
 1. Thermal Reactor Model
    
 Purpose: Simulate heat transfer in a reactor.
@@ -1733,6 +1735,8 @@ How It Works: Fill container with balls, pour water, measure temperature changes
 Purpose: Utilize solar energy to demonstrate reactor heat generation.
 Parts Needed: Black-painted container, glass cover, water, thermometer.
 How It Works: Place the container in the sun, measure temperature changes due to solar heating.
+
+```
 
 <br>
 </details>
