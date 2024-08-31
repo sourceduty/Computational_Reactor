@@ -1740,6 +1740,133 @@ How It Works: Place the container in the sun, measure temperature changes due to
 
 <br>
 </details>
+<details><summary>Advanced DIY Physical Computational Reactor Models</summary>
+<br>
+
+```
+1. Water Heater Reactor Model
+
+   Description: A basic model simulating heat transfer in a reactor using water and simple electric heating.
+
+   Parts List:
+   - Water container (heat-resistant glass or metal)
+   - Electric heating element (e.g., from a hot plate)
+   - Thermometer
+   - Pump (small aquarium pump)
+   - Tubing (heat-resistant plastic or rubber)
+   - Insulating material (foam or heat-resistant fabric)
+
+2. Air-Cooled Reactor Model
+
+   Description: Demonstrates the principles of heat exchange using air as a coolant.
+
+   Parts List:
+   - Metal container (to act as the reactor vessel)
+   - Electric heating element (small electric heater)
+   - Fan (for air circulation)
+   - Temperature sensors (digital thermometers)
+   - Aluminum fins (for heat dissipation)
+   - Air ducts (PVC pipes)
+
+3. Solar Reactor Model
+
+   Description: Uses solar energy to simulate heat generation and transfer in a reactor.
+
+   Parts List:
+   - Solar panel
+   - Heating coil (resistance wire)
+   - Water container (glass or plastic)
+   - Thermometer
+   - Tubing
+   - Small pump
+   - Insulating material
+
+4. Saltwater Reactor Model
+
+   Description: A model using saltwater and electrolysis to demonstrate basic chemical reactions and heat generation.
+
+   Parts List:
+   - Saltwater solution (water and table salt)
+   - Electrodes (graphite or stainless steel)
+   - Battery (low voltage, e.g., 9V)
+   - Beaker (glass or plastic)
+   - Wires and connectors
+   - Small electric fan (for cooling)
+
+5. Wind-Powered Reactor Model
+
+   Description: Demonstrates how wind energy can be used for cooling in a simulated reactor setup.
+
+   Parts List:
+   - Small wind turbine (or wind-up fan)
+   - Electric heating element
+   - Water container
+   - Thermometer
+   - Heat exchanger (aluminum coil or radiator)
+   - Fan blades (plastic or metal)
+
+6. Simple Chemical Reaction Reactor Model
+
+   Description: Uses a safe, exothermic chemical reaction to simulate heat generation in a reactor.
+
+   Parts List:
+   - Baking soda (sodium bicarbonate)
+   - Vinegar (acetic acid)
+   - Reaction chamber (plastic or glass container)
+   - Temperature sensors
+   - Tubing
+   - Pump (to circulate the solution)
+
+7. Candle-Powered Reactor Model
+
+   Description: Simulates heat generation using a simple candle flame, demonstrating basic heat transfer principles.
+
+   Parts List:
+   - Candle (standard wax candle)
+   - Metal container (to act as a reactor vessel)
+   - Water (to observe heat transfer)
+   - Heat exchanger (metal coil or tubing)
+   - Insulating material
+
+8. Hot Water Circulation Model
+
+   Description: Demonstrates the concept of a primary and secondary loop using hot water circulation.
+
+   Parts List:
+   - Hot water tank or kettle
+   - Plastic or glass tubing
+   - Pump (aquarium pump)
+   - Radiator or heat exchanger (small metal radiator)
+   - Thermometer
+   - Insulating material
+
+9. Miniature Steam Engine Model
+
+   Description: Uses a small steam engine to demonstrate the conversion of heat energy to mechanical energy.
+
+   Parts List:
+   - Small boiler (metal container)
+   - Electric heating element
+   - Miniature steam engine (commercially available model)
+   - Water
+   - Steam pipes (metal or heat-resistant plastic)
+   - Pressure gauge
+
+10. Safe Chemical Reaction Model
+
+   Description: Uses a safe exothermic reaction with household chemicals to generate heat and demonstrate reactor control.
+
+   Parts List:
+   - Hydrogen peroxide solution (3% from pharmacy)
+   - Yeast (as a catalyst)
+   - Reaction vessel (glass or plastic)
+   - Thermometer
+   - Heat exchanger (aluminum foil or metal tubing)
+   - Safety goggles and gloves (for handling chemicals)
+```
+
+<br>
+</details>
 
 #
 ### Public Funding for Computational Reactors
