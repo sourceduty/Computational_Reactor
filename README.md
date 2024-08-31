@@ -44,8 +44,6 @@ Simulating more complex systems, such as a Computational CPU Reactor, requires m
 
 At the highest end of complexity, Computational Nuclear Reactors simulate nuclear reactions, heat generation, and fluid dynamics, requiring days to months to achieve the necessary precision for safety and design. These simulations are critical in ensuring the reliability and safety of nuclear technologies, demanding extensive computational resources and time due to their high-stakes nature.
 
-......................................................................................................................................
-
 | Reactor Type                  | Typical Time Requirements       | Notes                                              |
 |-------------------------------|---------------------------------|----------------------------------------------------|
 | Computational Data Reactor    | Minutes to Hours                | Depends on data size and complexity of operations  |
