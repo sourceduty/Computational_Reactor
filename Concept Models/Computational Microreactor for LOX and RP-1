@@ -1,3 +1,11 @@
+This computational microreactor model is designed to simulate the behavior of a small-scale reactor using Liquid Oxygen (LOX) and Rocket Propellant-1 (RP-1) with split-stream processing. The model's purpose is to provide insight into the combustion process, which is critical for propulsion applications, such as rocket engines. The microreactor's small volume and controlled conditions allow for precise analysis of the combustion dynamics, heat transfer, and reaction kinetics, making it an essential tool for optimizing performance and safety.
+
+The model includes parameters that define the physical setup of the reactor, such as its volume, initial temperature, and pressure, as well as the specific heat capacities of the reactants. The split-stream processing technique divides the flow of LOX and RP-1 into primary and secondary streams, directing a portion of each to the primary reaction chamber where combustion occurs. This setup allows for controlled mixing and reaction of the reactants, ensuring efficient use of the propellants and stable combustion conditions. The calculations for the reaction rate, energy balance, and temperature updates are based on fundamental principles of thermodynamics and chemical kinetics, ensuring accurate simulation of the real-world processes.
+
+In this model, the primary mixing temperature, reaction rate, and energy balance are key factors that influence the overall reactor behavior. The primary mixing temperature is calculated using the flow rates and temperatures of the incoming reactants, considering their specific heat capacities. The reaction rate is determined using the Arrhenius equation, which accounts for the activation energy and the current temperature of the reactor. Finally, the energy balance equation combines these factors to calculate the new temperature of the reactor, reflecting how the exothermic reaction heats the system. This iterative approach models the time-evolution of the reactor's state, providing valuable data for understanding and optimizing the combustion process in a controlled microreactor environment.
+
+...........................................................................................................................................
+
 Reactor Parameters:
 
 - Reactor Volume: 0.002 cubic meters (m³)
