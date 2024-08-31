@@ -1295,7 +1295,7 @@ In this model, the primary mixing temperature, reaction rate, and energy balance
 
 .........................................................................................
 
-<details><summary>Evolutionary Computational Reactor</summary> 
+<details><summary>Computational Microreactor for LOX and RP-1</summary> 
 <br>
 
 ```
