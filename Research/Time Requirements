@@ -4,10 +4,17 @@ Simulating more complex systems, such as a Computational CPU Reactor, requires m
 
 At the highest end of complexity, Computational Nuclear Reactors simulate nuclear reactions, heat generation, and fluid dynamics, requiring days to months to achieve the necessary precision for safety and design. These simulations are critical in ensuring the reliability and safety of nuclear technologies, demanding extensive computational resources and time due to their high-stakes nature.
 
-| Reactor Type                  | Typical Time Requirements       | Notes                                              |
-|-------------------------------|---------------------------------|----------------------------------------------------|
-| Computational Data Reactor    | Minutes to Hours                | Depends on data size and complexity of operations  |
-| Computational Microcontroller Reactor | Seconds to Minutes      | Quick simulations due to limited scope             |
-| Computational CPU Reactor     | Minutes to Days                 | Depends on workload complexity and optimization goals |
-| Computational Cancer Reactor  | Hours to Weeks                  | High complexity due to detailed biological modeling|
-| Computational Nuclear Reactor | Days to Months                  | Requires high precision for safety and design      |
+| Reactor Type                           | Typical Time Requirements       | Notes                                              |
+|----------------------------------------|---------------------------------|----------------------------------------------------|
+| Computational Data Reactor             | Minutes to Hours                | Depends on data size and complexity of operations  |
+| Computational Microcontroller Reactor  | Seconds to Minutes              | Quick simulations due to limited scope             |
+| Computational CPU Reactor              | Minutes to Days                 | Depends on workload complexity and optimization goals |
+| Computational Cancer Reactor           | Hours to Weeks                  | High complexity due to detailed biological modeling|
+| Computational Nuclear Reactor          | Days to Months                  | Requires high precision for safety and design      |
+| Computational Rocket Chemical Reactor  | Hours to Days                   | Simulates chemical reactions in rocket propulsion; requires detailed modeling of chemical kinetics and thermodynamics |
+| Computational Bot Reactor              | Seconds to Minutes              | Focuses on AI and robotics simulations; typically quick due to limited scope of tasks |
+| Computational Neuron Reactor           | Hours to Days                   | Simulates neural networks or brain processes; time depends on the scale and complexity of the neural network |
+| Computational Microreactor Model       | Minutes to Hours                | Simulates small-scale reactor dynamics; focuses on efficiency and safety, requiring moderate computational time |
+| Computational Variant Reactor (CVR)    | Minutes to Hours                | Simulates genetic variants and their impacts; complexity depends on the number of variants and interactions modeled |
+| Computational Error Variant Reactor (CEVR) | Hours to Days               | Focuses on error analysis in complex systems; time varies based on the number of variables and error scenarios being simulated |
+
