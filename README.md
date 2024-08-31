@@ -1692,6 +1692,8 @@ Computational Reactors was written to bridge the gap between computational scien
 
 > "*Evolving and adapting computational reactor science and theory is a major breakthrough for myself and Sourceduty.*"
 
+> "*Computational reactors have a limitless potential across various fields of computer science.*"
+
 #
 ### Related Links
 
