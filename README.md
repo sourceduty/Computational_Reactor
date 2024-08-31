@@ -1694,6 +1694,10 @@ Computational Reactors was written to bridge the gap between computational scien
 
 > "*Computational reactors have a limitless potential across various fields of computer science.*"
 
+> "*I'm very excited and I would really like to see other people utilize computational reactors in their own custom models.*"
+
+> "*There is a lot of information withheld from this repo to help others learn.*"
+
 #
 ### Related Links
 
