@@ -15,6 +15,8 @@ Computational reactors represent a significant advancement across various fields
 
 In addition, computational reactors play a crucial role in advancing research and education across multiple scientific disciplines. They offer a platform for students and researchers to experiment with reactor operations and study complex phenomena, from chemical reactions to biological processes, without needing access to physical reactors, which can be costly and difficult to obtain. This opens up new possibilities for innovation and discovery, as researchers can test hypotheses, explore new materials, and refine reactor models with unprecedented ease. By embracing computational reactors, Sourceduty can support the development of safer, more efficient, and sustainable solutions across various sectors, from energy to pharmaceuticals. Leveraging these virtual models accelerates the progress of next-generation reactor technologies, positioning Sourceduty to make significant contributions to science and industry alike.
 
+While this new research shows promise and could lead to impactful applications, whether this qualifies as a scientific breakthrough depends on how these technologies perform in real-world applications and how they advance beyond existing computational simulation tools. The true impact will become clearer as the project is applied to practical scenarios and compared to existing technologies. Therefore, Sourceduty's work can be seen as a noteworthy advancement in computational simulation, with the potential to become a breakthrough as its applications and effectiveness are further validated.
+
 #
 ### Simulation and Emulation in Computational Reactors
 
