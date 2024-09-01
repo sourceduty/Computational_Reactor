@@ -106,6 +106,178 @@ The use of computational simulations in this field also significantly enhances s
 The concept of a computational data reactor is a powerful and versatile tool in the field of data processing and automation. A computational data reactor serves as a controlled environment where multiple bots or algorithms can interact, process data, and generate outputs that can be closely observed, analyzed, and optimized. This environment's flexibility allows for the simulation of various correlation types between the bots—whether competitive or cooperative—enabling a deep understanding of the effectiveness of different data processing strategies under a variety of conditions.
 
 #
+### Household Chemical Reactors
+
+These computational reactor models are designed to optimize the synthesis of by-products from common household chemicals:
+
+1. Carbon Dioxide Synthesis: Efficiently produces CO2 for various industrial applications using vinegar and baking soda.
+2. Chloramine Synthesis: Controlled production of chloramines for disinfection in water treatment using bleach and ammonia.
+3. Oxygen Generation: Efficient generation of oxygen gas from hydrogen peroxide decomposition, useful for medical and industrial applications.
+
+Each model is tailored to maximize the desired by-product's production, ensuring safe and efficient operation through controlled reactor designs and optimized operating conditions. Safety considerations are crucial, especially when scaling up reactions that produce gases or involve hazardous chemicals.
+
+.............................................................
+
+<details><summary>Household Chemical Computational Reactor Examples</summary>
+<br>
+
+Carbon Dioxide Synthesis Reactor
+
+This model aims to produce carbon dioxide (CO2) efficiently for applications like carbonation, fire extinguishers, or scientific uses.
+
+````
++--------------------------+------------------------------------------+
+| Chemical Components      | Description                              |
++--------------------------+------------------------------------------+
+| Vinegar (Acetic Acid)    | CH3COOH, commonly available in high      |
+|                          | concentrations for industrial use        |
++--------------------------+------------------------------------------+
+| Baking Soda (Sodium      | NaHCO3, available in bulk for industrial |
+| Bicarbonate)             | applications                             |
++--------------------------+------------------------------------------+
+| Reaction Formula         | CH3COOH + NaHCO3 -> CO2 + H2O + NaC2H3O2 |
++--------------------------+------------------------------------------+
+| By-products              | Carbon dioxide (CO2), Water (H2O),       |
+|                          | Sodium acetate (NaC2H3O2)                |
++--------------------------+------------------------------------------+
+| Reactor Design           | Continuous flow reactor with controlled  |
+|                          | input of vinegar and baking soda         |
+|                          | - Input streams of acetic acid and sodium|
+|                          | bicarbonate fed into a mixing chamber    |
+|                          | - Output stream to separate CO2 from the |
+|                          | liquid mixture                           |
++--------------------------+------------------------------------------+
+| Operating Conditions     | Temperature: Room temperature (20-25°C)  |
+|                          | Pressure: Slightly elevated (1-2 atm) to |
+|                          | enhance CO2 capture                      |
+|                          | Stirring: Moderate to ensure thorough    |
+|                          | mixing and reaction completion           |
++--------------------------+------------------------------------------+
+| Decay Rate               | Moderate                                 |
++--------------------------+------------------------------------------+
+| Decay Efficiency         | High (complete reaction in stoichiometric|
+|                          | amounts)                                 |
++--------------------------+------------------------------------------+
+| By-product Efficiency    | High (optimized CO2 production for       |
+|                          | industrial applications)                 |
++--------------------------+------------------------------------------+
+| Applications             | CO2 for carbonation in beverages,        |
+|                          | fire extinguishers, dry ice production   |
++--------------------------+------------------------------------------+
+| Safety Considerations    | Controlled release of CO2 to prevent     |
+|                          | pressure build-up, use of pressure relief|
+|                          | valves and monitoring systems            |
++--------------------------+------------------------------------------+
+```
+
+Chloramine Synthesis Reactor
+
+This model is designed to synthesize chloramines in a controlled environment, useful for water treatment and disinfection applications.
+
+```
++--------------------------+------------------------------------------+
+| Chemical Components      | Description                              |
++--------------------------+------------------------------------------+
+| Bleach (Sodium           | NaOCl, available in high concentrations  |
+| Hypochlorite)            | for industrial water treatment           |
++--------------------------+------------------------------------------+
+| Ammonia (Ammonium        | NH3, available in large-scale for        |
+| Hydroxide)               | industrial use                           |
++--------------------------+------------------------------------------+
+| Reaction Formula         | NaOCl + NH3 -> NH2Cl (Chloramine) + NaOH |
++--------------------------+------------------------------------------+
+| By-products              | Chloramines (NH2Cl, NHCl2, NCl3), Sodium |
+|                          | hydroxide (NaOH)                         |
++--------------------------+------------------------------------------+
+| Reactor Design           | Batch reactor with controlled addition of|
+|                          | bleach and ammonia                       |
+|                          | - Large mixing chamber with temperature  |
+|                          | and pH control                           |
+|                          | - Gas scrubbers to capture and neutralize|
+|                          | any excess chlorine gas                  |
++--------------------------+------------------------------------------+
+| Operating Conditions     | Temperature: Controlled at 20-30°C       |
+|                          | pH: Maintained between 8-10 to optimize  |
+|                          | chloramine formation                     |
+|                          | Mixing: Continuous stirring to ensure    |
+|                          | complete reaction                        |
++--------------------------+------------------------------------------+
+| Decay Rate               | Fast (chloramine formation is rapid)     |
++--------------------------+------------------------------------------+
+| Decay Efficiency         | High (efficient reaction with ammonia    |
+|                          | for chloramine production)               |
++--------------------------+------------------------------------------+
+| By-product Efficiency    | High (effective chloramine production for|
+|                          | disinfection purposes)                   |
++--------------------------+------------------------------------------+
+| Applications             | Water treatment, disinfection of         |
+|                          | municipal water supplies, sanitation     |
++--------------------------+------------------------------------------+
+| Safety Considerations    | Proper ventilation and gas handling to   |
+|                          | avoid toxic gas build-up. Regular        |
+|                          | monitoring of chlorine and ammonia levels|
++--------------------------+------------------------------------------+
+```
+
+Oxygen Generation Reactor
+
+This model focuses on the controlled decomposition of hydrogen peroxide to produce oxygen gas for various applications.
+
+```
++--------------------------+------------------------------------------+
+| Chemical Components      | Description                              |
++--------------------------+------------------------------------------+
+| Hydrogen Peroxide        | H2O2, available in high concentrations   |
+|                          | (30-70%) for industrial use              |
++--------------------------+------------------------------------------+
+| Catalyst                 | Manganese dioxide (MnO2) or potassium    |
+|                          | iodide (KI) to accelerate decomposition  |
++--------------------------+------------------------------------------+
+| Reaction Formula         | 2 H2O2 -> 2 H2O + O2 (gas)               |
++--------------------------+------------------------------------------+
+| By-products              | Oxygen gas (O2), Water (H2O)             |
++--------------------------+------------------------------------------+
+| Reactor Design           | Continuous flow reactor with catalyst bed|
+|                          | - Input stream of hydrogen peroxide over |
+|                          | catalyst bed                             |
+|                          | - Output stream to capture oxygen gas    |
++--------------------------+------------------------------------------+
+| Operating Conditions     | Temperature: Room temperature or slightly|
+|                          | elevated (25-40°C)                       |
+|                          | Pressure: Atmospheric pressure           |
+|                          | Catalyst: High surface area catalyst to  |
+|                          | enhance reaction rate                    |
++--------------------------+------------------------------------------+
+| Decay Rate               | Fast (rapid decomposition in presence of |
+|                          | catalyst)                                |
++--------------------------+------------------------------------------+
+| Decay Efficiency         | High (almost complete conversion of H2O2)|
+|                          | to water and oxygen                      |
++--------------------------+------------------------------------------+
+| By-product Efficiency    | High (efficient oxygen production for    |
+|                          | various uses)                            |
++--------------------------+------------------------------------------+
+| Applications             | Medical oxygen generation, industrial    |
+|                          | processes, wastewater treatment          |
++--------------------------+------------------------------------------+
+| Safety Considerations    | Handle high concentrations of H2O2 with  |
+|                          | care due to corrosive and oxidizing      |
+|                          | properties. Ensure proper ventilation.   |
++--------------------------+------------------------------------------+
+```
+
+.............................................................
+
+The Carbon Dioxide Synthesis Reactor uses a reaction between acetic acid (vinegar) and sodium bicarbonate (baking soda) to produce carbon dioxide gas (CO2), water, and sodium acetate. This setup operates as a continuous flow reactor, where the reactants are mixed in controlled amounts to ensure a consistent and efficient production of CO2. The process is conducted at room temperature with slightly elevated pressure to optimize the capture of CO2 gas, making it suitable for applications such as beverage carbonation, fire extinguishers, and dry ice production. Proper venting and monitoring systems are integrated to handle gas pressure and ensure safe operation.
+
+The Chloramine Synthesis Reactor is designed for producing chloramines, a disinfectant widely used in water treatment. This model involves the reaction of sodium hypochlorite (bleach) with ammonia, producing chloramines and sodium hydroxide. The reaction takes place in a batch reactor with precise control over temperature and pH to optimize chloramine formation while minimizing the release of hazardous gases. Continuous stirring and gas scrubbers are used to manage reaction by-products, ensuring that the chloramines are produced in a controlled and safe manner for sanitizing municipal water supplies and other sanitation applications.
+
+The Oxygen Generation Reactor utilizes the decomposition of hydrogen peroxide (H2O2) catalyzed by substances like manganese dioxide or potassium iodide to produce oxygen gas and water. This model operates as a continuous flow system where hydrogen peroxide is passed over a catalyst bed, facilitating rapid decomposition. The setup is maintained at ambient or slightly elevated temperatures to enhance reaction rates without causing uncontrolled decomposition. The reactor is designed to safely capture the oxygen gas for use in medical oxygen generation, industrial oxidation processes, and wastewater treatment, while managing the corrosive nature of concentrated hydrogen peroxide through careful handling and safety measures.
+
+<br>
+</details>
+
+#
 ### Computational Microcontroller Reactor
 
 Computational Microcontroller Reactors represent a convergence of embedded systems technology and control engineering, designed to manage and regulate physical processes with high precision and reliability. These systems typically use microcontrollers as the core processing units, leveraging their ability to handle real-time data acquisition, signal processing, and actuator control. By integrating various sensors and actuators, a computational microcontroller reactor can monitor key environmental parameters such as temperature, pressure, and flow rates, and adjust them in response to real-time data. This capability makes them ideal for a range of applications, including small-scale experimental reactors, industrial process controls, and even home automation systems. The use of microcontrollers allows these systems to be compact, cost-effective, and energy-efficient, while still providing the flexibility to handle complex control algorithms and communication protocols.
