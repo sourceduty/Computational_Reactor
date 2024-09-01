@@ -1,4 +1,4 @@
-![Computational Reactor](https://github.com/user-attachments/assets/b055c74e-632e-473c-9abb-b63e513ec323)
+![Computational Reactor](https://github.com/user-attachments/assets/f148cb0f-0aea-431d-9510-57f8f0235d1a)
 
 > The concept and creation of a controlled virtual environment where multiple reactions produce outputs.
 
