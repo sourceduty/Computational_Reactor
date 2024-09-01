@@ -108,6 +108,8 @@ The concept of a computational data reactor is a powerful and versatile tool in 
 #
 ### Household Chemical Reactors
 
+![Chemicals](https://github.com/user-attachments/assets/8f1c40c5-62fd-4c2d-a9ab-5b9a474c24cd)
+
 These computational reactor models are designed to optimize the synthesis of by-products from common household chemicals:
 
 1. Carbon Dioxide Synthesis: Efficiently produces CO2 for various industrial applications using vinegar and baking soda.
