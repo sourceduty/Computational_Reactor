@@ -2155,6 +2155,12 @@ Computational Reactors was written to bridge the gap between computational scien
 [Space](https://github.com/sourceduty/Space)
 <br>
 [SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+<br>
+[Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
+<br>
+[Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
+<br>
+[Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
 
 #
 
