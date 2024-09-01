@@ -1667,7 +1667,7 @@ Overall, incorporating dynamic environmental changes and external influences int
 #
 ### Build a Physical Computational Reactor Model
 
-![Store Bought Scientist](https://github.com/user-attachments/assets/e9863764-7a7a-452a-b3b2-6f7ad07215de)
+![Computational Reactor Scientist](https://github.com/user-attachments/assets/3867fd6c-35a9-44fd-a619-a314525cd4b3)
 
 Creating simple physical computational reactors at home using store-bought parts offers an exciting and educational way to explore the principles of nuclear reactor physics. These projects, while not involving actual nuclear reactions, simulate key aspects of reactor operation such as heat transfer, neutron diffusion, radiation detection, and reactor control. By using common materials like copper tubing, ball bearings, microcontrollers, and even items as simple as dominoes, enthusiasts can model the behavior of reactor systems in a safe and accessible environment. These models help to visualize and understand the complex dynamics of real reactors, offering a hands-on approach to learning about heat exchange, neutron scattering, and the importance of control mechanisms in maintaining reactor stability.
 
