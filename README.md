@@ -532,6 +532,8 @@ if __name__ == "__main__":
 #
 ### Computational Microreactor Model Concept
 
+![Computational Microreactor Example](https://github.com/user-attachments/assets/07c23075-d16b-4803-8a55-6861046f50cf)
+
 The Computational Microreactor Model offers a comprehensive framework for simulating and analyzing complex reactive processes within a virtual environment. Designed to manage intricate interactions among multiple reactants, the model facilitates detailed investigation and optimization of reaction dynamics. The reactor diagram showcases a sequential flow where reactant V initiates the chain reaction, followed by interactions through nodes A, B, C, and ending with the termination at W. Intermediate reactants such as S, F, and E play pivotal roles in influencing the progression of the reactions. The model incorporates a variety of operations to manipulate reactants, including merging, transformation, splitting, filtering, and feature engineering, providing flexibility in handling and analyzing reactants. Real-time monitoring is enabled through a suite of sensors that track activation, process metrics, data flow, and reaction dynamics. An example simulated reaction demonstrates the model’s capability to model reactant transformations, interactions, and the eventual output. By providing a structured approach and detailed monitoring capabilities, the Computational Microreactor Model supports advanced research and development in computational chemistry and engineering, offering valuable insights into complex chemical and physical transformations.
 
 .........................................................................................
