@@ -70,19 +70,22 @@ Simulating more complex systems, such as a Computational CPU Reactor, requires m
 
 <br>
 
-| Reactor Type                           | Typical Time Requirements       | Notes                                              |
-|----------------------------------------|---------------------------------|----------------------------------------------------|
-| Computational Data Reactor             | Minutes to Hours                | Depends on data size and complexity of operations  |
-| Computational Microcontroller Reactor  | Seconds to Minutes              | Quick simulations due to limited scope             |
-| Computational CPU Reactor              | Minutes to Days                 | Depends on workload complexity and optimization goals |
-| Computational Cancer Reactor           | Hours to Weeks                  | High complexity due to detailed biological modeling|
-| Computational Nuclear Reactor          | Days to Months                  | Requires high precision for safety and design      |
-| Computational Rocket Chemical Reactor  | Hours to Days                   | Simulates chemical reactions in rocket propulsion; requires detailed modeling of chemical kinetics and thermodynamics |
-| Computational Bot Reactor              | Seconds to Minutes              | Focuses on AI and robotics simulations; typically quick due to limited scope of tasks |
-| Computational Neuron Reactor           | Hours to Days                   | Simulates neural networks or brain processes; time depends on the scale and complexity of the neural network |
-| Computational Microreactor Model       | Minutes to Hours                | Simulates small-scale reactor dynamics; focuses on efficiency and safety, requiring moderate computational time |
-| Computational Variant Reactor (CVR)    | Minutes to Hours                | Simulates genetic variants and their impacts; complexity depends on the number of variants and interactions modeled |
-| Computational Error Variant Reactor (CEVR) | Hours to Days               | Focuses on error analysis in complex systems; time varies based on the number of variables and error scenarios being simulated |
+| Reactor Type                           | Estimated Time      | Development Time    | Core Design                               | Core Type         | Common Reactions                 | Reactants                                | By-products                              |
+|----------------------------------------|---------------------|---------------------|-------------------------------------------|-------------------|----------------------------------|-------------------------------------------|-------------------------------------------|
+| Computational Data Reactor             | Minutes to Hours    | Weeks to Months     | Data processing unit                      | Digital           | Data sorting, analysis           | Data sets, algorithms                     | Processed data, insights                  |
+| Computational Microcontroller Reactor  | Seconds to Minutes  | Weeks               | Microcontroller simulation                | Digital           | Signal processing, control loops | Input signals, control algorithms         | Output signals, control states            |
+| Computational CPU Reactor              | Minutes to Days     | Months to Years     | CPU simulation                            | Digital           | Computation, data processing     | Instructions, program code                | Output data, processing results           |
+| Computational Cancer Reactor           | Hours to Weeks      | Months to Years     | Biological cell modeling                  | Biological        | Cell growth, mutation            | Biological cells, mutation factors        | Cancer cell populations, mutation effects |
+| Computational Nuclear Reactor          | Days to Months      | Years               | Nuclear fission simulation                | Nuclear           | Fission, neutron transport       | Nuclear fuel, neutrons                    | Fission fragments, heat, radiation        |
+| Computational Rocket Chemical Reactor  | Hours to Days       | Months to Years     | Chemical reaction modeling                | Chemical          | Combustion, chemical kinetics    | Rocket propellant, oxidizers              | Thrust, exhaust gases                     |
+| Computational Bot Reactor              | Seconds to Minutes  | Weeks to Months     | AI and robotics simulation                | Digital           | Decision-making, learning        | Input data, neural network models         | Actions, responses                        |
+| Computational Neuron Reactor           | Hours to Days       | Months to Years     | Neural network simulation                 | Biological/Digital| Synaptic transmission, learning  | Neurons, neurotransmitters                | Neural signals, learning adaptations      |
+| Computational Microreactor Model       | Minutes to Hours    | Months              | Small-scale reactor simulation            | Nuclear/Chemical  | Fission, chemical reactions      | Nuclear fuel or chemicals                 | Energy, reaction by-products              |
+| Computational Variant Reactor (CVR)    | Minutes to Hours    | Months              | Genetic variant analysis                  | Biological        | Genetic mutation, expression     | DNA sequences, genetic variants           | Mutated genes, protein expressions        |
+| Computational Error Variant Reactor (CEVR)| Hours to Days   | Months              | Error analysis in complex systems         | Digital           | Error propagation, fault analysis| System parameters, error scenarios        | Error reports, risk assessments           |
+| Synergistic Computational Reactor (SCR)| Minutes to Days     | Months to Years     | Multi-disciplinary simulation             | Various           | Complex interaction modeling     | Multiple inputs from different domains    | Synergistic outcomes, multi-domain insights|
+| Computational Stellar Reactor          | Days to Years       | Years to Decades    | Stellar processes simulation              | Astrophysical     | Nuclear fusion, stellar dynamics | Hydrogen, helium, other stellar materials | Light, heat, heavier elements             |
+| Computational Biological Microreactor  | Hours to Days       | Months to Years     | Microbiological process simulation        | Biological        | Metabolism, cellular reactions   | Microorganisms, nutrients                 | Metabolites, cellular waste               |
 
 #
 ### Computational Reactor Combinatorics
