@@ -1,0 +1,22 @@
+| Reactor Type                                 | Fuel Type                | Coolant                 | Moderator       | Neutron Spectrum | Typical Usage                     | Status                    |
+|----------------------------------------------|--------------------------|-------------------------|-----------------|------------------|-----------------------------------|---------------------------|
+| Light Water Reactor (LWR)                    | Enriched Uranium         | Water                   | Water           | Thermal          | Electricity Generation            | Operational               |
+| Pressurized Water Reactor (PWR)              | Enriched Uranium         | Water (Pressurized)     | Water           | Thermal          | Electricity Generation            | Operational               |
+| Boiling Water Reactor (BWR)                  | Enriched Uranium         | Water (Boiling)         | Water           | Thermal          | Electricity Generation            | Operational               |
+| Heavy Water Reactor (HWR)                    | Natural Uranium          | Heavy Water             | Heavy Water     | Thermal          | Electricity Generation            | Operational               |
+| CANDU (Canadian Deuterium Uranium)           | Natural/Low-enriched Uranium | Heavy Water         | Heavy Water     | Thermal          | Electricity Generation            | Operational               |
+| Gas-cooled Reactor (GCR)                     | Natural Uranium          | Carbon Dioxide/Helium   | Graphite        | Thermal          | Electricity Generation            | Historical                |
+| Advanced Gas-cooled Reactor (AGR)            | Enriched Uranium         | Carbon Dioxide          | Graphite        | Thermal          | Electricity Generation            | Operational               |
+| Magnox Reactor                               | Natural Uranium          | Carbon Dioxide          | Graphite        | Thermal          | Electricity Generation            | Historical                |
+| High-Temperature Gas-cooled Reactor (HTGR)   | Low-enriched Uranium     | Helium                  | Graphite        | Thermal          | Electricity Generation, Process Heat | Operational, Experimental |
+| Fast Breeder Reactor (FBR)                   | Enriched Uranium/Plutonium | Liquid Sodium        | None            | Fast             | Plutonium Production, Electricity | Operational, Experimental |
+| Liquid Metal Fast Breeder Reactor (LMFBR)    | Enriched Uranium/Plutonium | Liquid Sodium        | None            | Fast             | Plutonium Production, Electricity | Historical, Experimental  |
+| Molten Salt Reactor (MSR)                    | Uranium/Thorium salts    | Molten Salt             | Graphite        | Thermal          | Experimental, Electricity Generation | Experimental              |
+| Pebble Bed Reactor (PBR)                     | Low-enriched Uranium     | Helium                  | Graphite        | Thermal          | Electricity Generation            | Experimental              |
+| Supercritical Water Reactor (SCWR)           | Enriched Uranium         | Supercritical Water     | Water           | Thermal/Fast     | Experimental, Electricity Generation | Experimental              |
+| Integral Fast Reactor (IFR)                  | Enriched Uranium/Plutonium | Liquid Sodium        | None            | Fast             | Waste Reduction, Electricity     | Experimental              |
+| Sodium-cooled Fast Reactor (SFR)             | Enriched Uranium/Plutonium | Liquid Sodium        | None            | Fast             | Electricity Generation            | Experimental              |
+| Small Modular Reactor (SMR)                  | Enriched Uranium         | Water or Gas            | Water or Graphite | Thermal/Fast   | Electricity Generation            | Development               |
+| RBMK (Reaktor Bolshoy Moshchnosti Kanalnyy)  | Enriched Uranium         | Water                   | Graphite        | Thermal          | Electricity Generation            | Historical, Limited Operational |
+| Advanced Heavy Water Reactor (AHWR)          | Thorium/Enriched Uranium | Heavy Water             | Heavy Water     | Thermal          | Electricity Generation, Experimental | Experimental              |
+| Thorium Reactor                              | Thorium/Uranium          | Various (Salt, Water)   | Various         | Thermal          | Electricity Generation            | Experimental, Development |
