@@ -125,7 +125,7 @@ Carbon Dioxide Synthesis Reactor
 
 This model aims to produce carbon dioxide (CO2) efficiently for applications like carbonation, fire extinguishers, or scientific uses.
 
-````
+```
 +--------------------------+------------------------------------------+
 | Chemical Components      | Description                              |
 +--------------------------+------------------------------------------+
