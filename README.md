@@ -2212,6 +2212,10 @@ By using the information in this repository, users acknowledge and agree that th
 [Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
 <br>
 [Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
+<br>
+[Research Planner](https://github.com/sourceduty/Research_Planner)
+<br>
+[Research Automation](https://github.com/sourceduty/Research_Automation)
 
 #
 
