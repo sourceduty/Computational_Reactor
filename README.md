@@ -2093,6 +2093,13 @@ In addition to traditional grants, alternative funding methods can also be effec
 
 Computational Reactors was written to bridge the gap between computational science and reactor engineering. This textbook aims to equip readers with a thorough understanding of computational methods and their applications in reactor physics. It covers both traditional and emerging reactor technologies, providing a comprehensive guide to the modeling, simulation, and analysis of reactors. The book is intended for advanced undergraduate and graduate students, as well as professionals in nuclear engineering, physics, and related fields. By integrating theory with practical applications, the textbook addresses the complexities of reactor design, safety, and optimization.
 
+#
+### Scientific Information Disclaimer
+
+The information provided in this repository, including data, models, simulations, and analytical tools related to computational reactor research, is intended for informational and educational purposes only. While every effort has been made to ensure the accuracy and reliability of the content, it is provided "as is" without warranty of any kind, either express or implied. The authors and contributors to this repository make no representations or warranties regarding the completeness, accuracy, reliability, suitability, or availability of the information contained herein. Users of this repository are advised to verify any data and results independently before relying on them for research, development, or operational purposes.
+
+By using the information in this repository, users acknowledge and agree that the authors, contributors, and affiliated institutions shall not be held liable for any direct, indirect, incidental, consequential, or any other type of damages arising out of or in connection with the use of the data, models, or tools provided. This includes, but is not limited to, damages resulting from loss of data, profits, or business opportunities. Users are responsible for ensuring that their use of the information complies with applicable laws, regulations, and standards, and for obtaining any necessary permissions or licenses required for their specific applications.
+
 ***
 
 > Alex: "*I made a computational microreactor model concept using custom reactive nodes.*"
