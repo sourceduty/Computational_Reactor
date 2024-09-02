@@ -18,7 +18,9 @@ In addition, computational reactors play a crucial role in advancing research an
 While this new research shows promise and could lead to impactful applications, whether this qualifies as a scientific breakthrough depends on how these technologies perform in real-world applications and how they advance beyond existing computational simulation tools. The true impact will become clearer as the project is applied to practical scenarios and compared to existing technologies. Therefore, Sourceduty's work can be seen as a noteworthy advancement in computational simulation, with the potential to become a breakthrough as its applications and effectiveness are further validated.
 
 #
-### Evolved Computational Science 
+### Evolved Computational Science
+
+![Computational Reactor Box](https://github.com/user-attachments/assets/99f6c663-7d30-424a-8df9-baec6075da92)
 
 The history of computational reactors primarily began with applications in nuclear science, where understanding and controlling nuclear reactions required detailed modeling of neutron behavior and thermal dynamics. Early computational efforts, such as the Monte Carlo method, were developed to simulate neutron transport and interaction within reactors. These simulations were crucial for designing reactors, ensuring safety, and optimizing fuel use. With the advancement of computer technology, these models became more sophisticated, incorporating a wide range of physical phenomena and providing detailed insights into reactor behavior under various operational conditions.
 
