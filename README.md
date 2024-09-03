@@ -2260,6 +2260,8 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 [Research Planner](https://github.com/sourceduty/Research_Planner)
 <br>
 [Research Automation](https://github.com/sourceduty/Research_Automation)
+<br>
+[Computational Theory](https://github.com/sourceduty/Computational_Theory)
 
 #
 
