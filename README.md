@@ -2157,6 +2157,15 @@ The information provided in this repository, including data, models, simulations
 
 By using the information in this repository, users acknowledge and agree that the authors, contributors, and affiliated institutions shall not be held liable for any direct, indirect, incidental, consequential, or any other type of damages arising out of or in connection with the use of the data, models, or tools provided. This includes, but is not limited to, damages resulting from loss of data, profits, or business opportunities. Users are responsible for ensuring that their use of the information complies with applicable laws, regulations, and standards, and for obtaining any necessary permissions or licenses required for their specific applications.
 
+#
+### Sourceduty’s Contribution to Computer Science
+
+This repo is positioned at the cutting edge of modern computational reactor physics, reflecting recent advancements in nuclear engineering. It creates controlled virtual environments for simulating complex reactions, which is essential for understanding and optimizing the performance of nuclear reactors. By focusing on multi-physics and high-fidelity modeling, this repo simulates critical processes such as heat transfer, fluid dynamics, and chemical reactions, making it a vital tool for researchers aiming to address current and future challenges in reactor design and safety.
+
+With the growing emphasis on multi-physics modeling and high-performance computing (HPC), this repo leverages these advancements to offer scalable and efficient simulation capabilities. These tools are crucial for modern reactor designs, particularly in developing and optimizing next-generation reactors like Small Modular Reactors (SMRs) and Generation IV reactors. The repo also plays a significant role in testing new nuclear materials, including accident-tolerant fuels, reflecting the industry's broader trend of using computational power to enhance reactor safety and performance.
+
+Sourceduty, the creator of this repo, is at the forefront of integrating state-of-the-art computational techniques with nuclear engineering. By providing an open-source framework that supports collaboration and innovation, Sourceduty enables researchers and engineers to simulate and analyze complex reactor systems more effectively. This repo is invaluable for advancing nuclear technology, offering the tools needed to ensure that future nuclear reactors are safer, more efficient, and capable of meeting the demands of a rapidly evolving energy landscape.
+
 ***
 
 > Alex: "*I made a computational microreactor model concept using custom reactive nodes.*"
