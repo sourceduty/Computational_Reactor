@@ -1,0 +1,124 @@
++-----------------------------------------------------+---------------------------------------------------------------+
+|                    Reactor Type                     |                          Description                          |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Microbial Fuel Cells (MFCs)                         | Generate electricity through microbial metabolism in organic  |
+|                                                     | substrates, using an anode to collect electrons.              |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Photoelectrochemical (PEC) Reactors                 | Use light to drive electrochemical reactions for hydrogen     |
+|                                                     | production or other processes via photocatalysts.             |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Membrane Reactors                                   | Combine reaction and separation processes using selective     |
+|                                                     | membranes, improving efficiency in processes like hydrogen    |
+|                                                     | production and methane reforming.                             |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Supercritical Fluid Reactors                        | Utilize supercritical fluids for enhanced reaction rates and  |
+|                                                     | mass transfer, used in extraction and chemical synthesis.     |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Magnetohydrodynamic (MHD) Generators                | Generate electricity by moving a conductive fluid through a   |
+|                                                     | magnetic field, suitable for high-temperature applications.   |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Thermophotovoltaic (TPV) Reactors                   | Convert thermal radiation from a hot emitter into electricity |
+|                                                     | using photovoltaic cells, used in waste heat recovery.        |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Sonic and Ultrasonic Reactors                       | Use sound waves to enhance chemical reactions through         |
+|                                                     | cavitation, improving mixing and mass transfer.               |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Toroidal Bed Reactors                               | Feature a toroidal (doughnut-shaped) packed bed design to     |
+|                                                     | improve flow distribution and reduce channeling.              |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Electromagnetic (EM) Wave-Assisted Reactors         | Use electromagnetic waves like microwaves to provide energy   |
+|                                                     | for chemical reactions, offering localized heating.           |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Solid Oxide Fuel Cell (SOFC) Reactors               | Generate electricity using a solid oxide electrolyte at high  |
+|                                                     | temperatures, commonly used in stationary power systems.      |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Rotating Packed Bed Reactors                        | Enhance mass transfer and reaction rates using a rotating bed |
+|                                                     | of packing material, used for gas-liquid reactions.           |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Volatile Organic Compounds (VOC) Oxidation Reactors | Specifically designed to oxidize VOCs for air pollution       |
+|                                                     | control, focusing on catalytic efficiency and emissions.      |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Fluidized Bed Photoreactors                         | Use a fluidized bed configuration with photocatalysts for     |
+|                                                     | improved light exposure and reaction efficiency.              |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Pulsed Plasma Reactors                              | Use short plasma pulses to drive chemical reactions, suitable |
+|                                                     | for surface treatment and gas conversion.                     |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Microwave Plasma Reactors                           | Generate plasma using microwave energy for applications like  |
+|                                                     | materials processing and gas conversion.                      |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Thermal Plasma Jet Reactors                         | Utilize a high-temperature plasma jet to drive reactions or   |
+|                                                     | melt materials, used in nanoparticle synthesis.               |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Cryogenic Reactors                                  | Operate at extremely low temperatures to slow reaction        |
+|                                                     | kinetics or enable specific low-temperature reactions.        |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Chemical Looping Reactors                           | Use metal oxides as oxygen carriers for combustion or         |
+|                                                     | chemical conversion, enhancing efficiency and reducing        |
+|                                                     | emissions.                                                    |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Enzyme Reactors                                     | Utilize immobilized enzymes to catalyze biochemical           |
+|                                                     | reactions, offering high selectivity and mild conditions.     |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Algal Bioreactors                                   | Cultivate algae for biofuel production, CO2 sequestration,    |
+|                                                     | or wastewater treatment, using controlled light and nutrient  |
+|                                                     | conditions.                                                   |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Geochemical Reactors                                | Simulate natural geochemical processes for carbon             |
+|                                                     | sequestration, resource extraction, or environmental          |
+|                                                     | remediation.                                                  |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Thermal Desorption Reactors                         | Use heat to remove volatile contaminants from solids, used in |
+|                                                     | soil remediation and treatment of sediments.                  |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Pulsed Laser Ablation Reactors                      | Use high-intensity laser pulses to ablate material surfaces,  |
+|                                                     | creating nanoparticles or thin films.                         |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Fluidized Bed Reactor with Magnetic Particles       | Combine fluidized bed operation with magnetic particles,      |
+|                                                     | allowing external magnetic fields to influence reactions and  |
+|                                                     | separation.                                                   |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Oscillatory Flow Reactors                           | Use oscillating fluid flow to enhance mixing and mass         |
+|                                                     | transfer, improving reaction rates in tubular reactors.       |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Bioelectrochemical Systems (BES)                    | Combine biological and electrochemical processes to drive     |
+|                                                     | reactions such as pollutant degradation or bioenergy          |
+|                                                     | production.                                                   |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Reverse Electrodialysis (RED) Reactors              | Generate electricity by mixing solutions of different salinity|
+|                                                     | through selective membranes, harnessing salinity gradient     |
+|                                                     | energy.                                                       |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Solar Updraft Towers                                | Utilize solar heat to create a convective updraft in a        |
+|                                                     | chimney, driving turbines for electricity generation.         |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Hydrothermal Liquefaction Reactors                  | Convert wet biomass into bio-oil under high-temperature and   |
+|                                                     | high-pressure water conditions, mimicking natural geological  |
+|                                                     | processes.                                                    |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Magnetically Stabilized Bed Reactors                | Use magnetic fields to stabilize the motion of ferromagnetic  |
+|                                                     | particles in a fluidized bed, enhancing reaction control and  |
+|                                                     | separation processes.                                         |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Oscillating Water Column (OWC) Reactors             | Generate energy from ocean waves using an oscillating water   |
+|                                                     | column to drive air through a turbine, producing electricity. |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Artificial Photosynthesis Reactors                  | Mimic natural photosynthesis to produce fuels from sunlight,  |
+|                                                     | CO2, and water, focusing on light capture and conversion      |
+|                                                     | efficiency.                                                   |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Fluidized Catalytic Cracking with Magnetic Fields   | Enhance the fluidized catalytic cracking process by applying  |
+|                                                     | magnetic fields to control catalyst distribution and improve  |
+|                                                     | reaction efficiency.                                          |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Pulsed Combustion Reactors                          | Utilize pulsating combustion for improved mixing and heat     |
+|                                                     | transfer, enhancing combustion efficiency and reducing        |
+|                                                     | emissions.                                                    |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Sorption-Enhanced Water-Gas Shift (SEWGS) Reactors  | Combine water-gas shift reaction with CO2 sorption in a single|
+|                                                     | reactor, enhancing hydrogen production and CO2 capture.       |
++-----------------------------------------------------+---------------------------------------------------------------+
+| Electrically Heated Catalytic Reactors              | Use direct electrical heating of catalysts to achieve precise |
+|                                                     | temperature control and rapid response, used in small-scale   |
+|                                                     | chemical synthesis.                                           |
++-----------------------------------------------------+---------------------------------------------------------------+
