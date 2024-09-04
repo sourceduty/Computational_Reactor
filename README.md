@@ -1955,6 +1955,8 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 
 > "*There is a lot of information withheld from this repo to help others learn.*"
 
+> "*This science-based research project repo utilizes a lot of dense theoretical information, research, science and less instructional information. Organizing and managing this project, in addition to managing other repos on GitHub, has been a challenge that strengthened myself and Sourceduty.*"
+
 #
 ### Related Links
 
