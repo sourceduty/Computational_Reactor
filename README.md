@@ -2048,9 +2048,5 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 <br>
 [Computational Theory](https://github.com/sourceduty/Computational_Theory)
 
-#
-
-![Active Development](https://github.com/user-attachments/assets/5844d82f-b66f-4a14-99f1-cacc0fad82f0)
-
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
