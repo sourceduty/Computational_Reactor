@@ -2047,6 +2047,8 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 [Research Automation](https://github.com/sourceduty/Research_Automation)
 <br>
 [Computational Theory](https://github.com/sourceduty/Computational_Theory)
+<br>
+[Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
