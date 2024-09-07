@@ -182,7 +182,7 @@ In physical reactors, the behavior of fuels is influenced by several factors, in
 #
 ### Plan to Spend Products
 
-![Spending Fuel](https://github.com/user-attachments/assets/cd85afee-e1bd-4daf-935a-cf1d3d8a9d4b)
+![Flamethrower](https://github.com/user-attachments/assets/97423928-e6be-4e44-be21-8d74f2a7f095)
 
 Producing products in reactors—whether chemical, biological, or nuclear—requires precise control to avoid inefficiencies and safety risks. In chemical reactors, overproduction of products can lead to buildup, causing unwanted reactions or hazardous conditions. For example, creating too much of a chemical product like ammonia or ethylene can lead to handling challenges or storage limitations. In biological reactors, overproducing products such as enzymes or proteins can cause system imbalances, increasing the likelihood of contamination or byproduct formation. For nuclear reactors, the excessive generation of energy products, like heat and neutrons, presents safety risks and material management challenges.
 
