@@ -17,9 +17,12 @@ Automate a computational reactor.
 Program a computational reactor for cancer.
 ```
 ```
+Test pharmaceutical compound reactions in bioreactor.
 Program a computational reactor for human evolution that starts with chimpanzees.
+Analyze energy storage system under stress conditions.
 Program a computational bioreactor.
 Program a computational microreactor.
+Model deep learning neural network behavior dynamics.
 ```
 ............................................................................................................................
 
