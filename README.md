@@ -8,6 +8,20 @@
 
 This custom GPT further amplifies the utility of computational reactors by offering a user-friendly interface that facilitates interaction with these complex simulations. It provides clear, step-by-step guidance, making sophisticated analysis accessible to users of varying expertise levels. By demystifying the underlying technical processes and focusing on accuracy and reliability, this GPT enhances the ability of researchers, engineers, and students to engage with a broad spectrum of reactor types, from nuclear to chemical to biological systems. The combination of computational reactors and this specialized GPT enables a deeper understanding of reactor dynamics, fosters innovation, and supports the safe and efficient development of new reactor technologies across diverse fields.
 
+............................................................................................................................
+
+```
+Simulate a computational reactor.
+Program a computational reactor.
+Automate a computational reactor.
+Program a computational reactor for cancer.
+```
+```
+Program a computational reactor for human evolution that starts with chimpanzees.
+Program a computational bioreactor.
+Program a computational microreactor.
+```
+
 #
 ### Breakthrough Science
 
