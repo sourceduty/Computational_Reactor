@@ -163,6 +163,36 @@ More complex systems, like the Computational CPU Reactor, require longer simulat
 | Computational Energy Storage Reactor     | Minutes to Hours    | Weeks to Months     | Battery technology and energy storage     | Chemical/Electrical | Energy Storage           | Charge/discharge cycles              | Battery materials, electricity            | Stored energy                              | Heat dissipation                          |
 
 #
+### Reactor Efficiency
+
+This table provides an overview of the efficiency metrics for different types of computational reactors, focusing on key parameters such as reaction speed, development time efficiency, reaction yield, energy and resource efficiency, scalability, and by-product impact. Reactors like the Computational Microcontroller Reactor and Computational Bot Reactor exhibit very high reaction speeds and development efficiency, making them highly scalable with minimal environmental impact. On the other hand, reactors like the Computational Nuclear Reactor and Computational Fusion Reactor, while providing high reaction yields and energy efficiency, have slower reaction speeds and longer development times, with significant by-products that pose challenges. Additionally, reactors like the Computational Environmental and Pharmaceutical Reactors have lower reaction speeds and development efficiency but are crucial in specialized areas requiring complex modeling and long-term impact assessment.
+
+| Reactor Type                             | Reaction Speed | Development Time Efficiency | Reaction Yield | Energy/Resource Efficiency | Scalability | By-product Impact |
+|------------------------------------------|----------------|-----------------------------|----------------|----------------------------|-------------|-------------------|
+| Computational Data Reactor               | High           | High                        | High           | High                       | High        | None              |
+| Computational Microcontroller Reactor    | Very High      | High                        | High           | High                       | High        | None              |
+| Computational CPU Reactor                | Medium         | Moderate                    | High           | High                       | High        | None              |
+| Computational Cancer Reactor             | Low            | Low                         | Moderate       | Low                        | Low         | Moderate          |
+| Computational Nuclear Reactor            | Very Low       | Low                         | High           | High                       | Moderate    | High              |
+| Computational Rocket Chemical Reactor    | Low            | Low                         | High           | Moderate                   | Moderate    | Moderate          |
+| Computational Bot Reactor                | Very High      | High                        | High           | High                       | High        | None              |
+| Computational Neuron Reactor             | Low            | Low                         | Moderate       | Low                        | Low         | Moderate          |
+| Computational Microreactor Model         | Medium         | Moderate                    | Moderate       | Moderate                   | Moderate    | Moderate          |
+| Computational Variant Reactor (CVR)      | High           | High                        | High           | High                       | High        | None              |
+| Computational Error Variant Reactor (CEVR)| Low           | Moderate                    | High           | High                       | High        | None              |
+| Synergistic Computational Reactor (SCR)  | Medium         | Moderate                    | High           | High                       | High        | Moderate          |
+| Computational Stellar Reactor            | Very Low       | Low                         | High           | Moderate                   | Low         | High              |
+| Computational Biological Microreactor    | Low            | Low                         | High           | Moderate                   | Low         | Moderate          |
+| Computational Hydrogen Reactor           | Medium         | Moderate                    | High           | High                       | Moderate    | Low               |
+| Computational Bioreactor                 | Low            | Low                         | High           | Moderate                   | Low         | Moderate          |
+| Computational Quantum Reactor            | Medium         | Moderate                    | High           | High                       | High        | None              |
+| Computational Fusion Reactor             | Very Low       | Low                         | High           | High                       | Moderate    | High              |
+| Computational Environmental Reactor      | Low            | Low                         | High           | Moderate                   | Low         | Moderate          |
+| Computational Pharmaceutical Reactor     | Low            | Low                         | High           | Moderate                   | Low         | Moderate          |
+| Computational Weather Reactor            | Low            | Low                         | High           | Moderate                   | Low         | Moderate          |
+| Computational Energy Storage Reactor     | High           | High                        | High           | High                       | High        | Low               |
+
+#
 ### Computational Reactant Granularity
 
 ![Granularity](https://github.com/user-attachments/assets/547b6f90-694c-407e-b384-9e086aa39551)
