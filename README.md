@@ -2092,6 +2092,8 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 [Computational Electrofusion](https://github.com/sourceduty/Computational_Electrofusion)
 <br>
 [Process](https://github.com/sourceduty/Process)
+<br>
+[Process Diagram](https://github.com/sourceduty/Process_Diagram)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
