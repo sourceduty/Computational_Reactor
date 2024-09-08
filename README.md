@@ -167,6 +167,8 @@ More complex systems, like the Computational CPU Reactor, require longer simulat
 
 This table provides an overview of the efficiency metrics for different types of computational reactors, focusing on key parameters such as reaction speed, development time efficiency, reaction yield, energy and resource efficiency, scalability, and by-product impact. Reactors like the Computational Microcontroller Reactor and Computational Bot Reactor exhibit very high reaction speeds and development efficiency, making them highly scalable with minimal environmental impact. On the other hand, reactors like the Computational Nuclear Reactor and Computational Fusion Reactor, while providing high reaction yields and energy efficiency, have slower reaction speeds and longer development times, with significant by-products that pose challenges. Additionally, reactors like the Computational Environmental and Pharmaceutical Reactors have lower reaction speeds and development efficiency but are crucial in specialized areas requiring complex modeling and long-term impact assessment.
 
+<br>
+
 | Reactor Type                             | Reaction Speed | Development Time Efficiency | Reaction Yield | Energy/Resource Efficiency | Scalability | By-product Impact |
 |------------------------------------------|----------------|-----------------------------|----------------|----------------------------|-------------|-------------------|
 | Computational Data Reactor               | High           | High                        | High           | High                       | High        | None              |
