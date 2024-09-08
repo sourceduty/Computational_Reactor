@@ -108,6 +108,13 @@ Computational Reactor Theory is a specialized field that utilizes computational 
 The framework of computational reactors integrates knowledge from disciplines like reactor physics, chemical engineering, numerical analysis, and computer science. This interdisciplinary approach creates sophisticated models that replicate real-world reactor conditions, essential for testing and optimizing reactor designs. These virtual experiments allow for the exploration of various variables, such as reaction kinetics, catalyst behavior, and thermal management, enabling engineers and scientists to innovate and optimize reactor operations without the risks and costs associated with physical testing. Computational reactors, therefore, play a crucial role in advancing technology across multiple fields, supporting education, research, and the development of safer, more efficient reactor systems.
 
 #
+### Reactivity and/or Reactability
+
+Reactivity refers to the intrinsic tendency of a substance to undergo a chemical reaction when it comes into contact with another substance or specific conditions. This is determined by the chemical structure, bonding, and energy levels of the substance. Highly reactive substances can quickly and vigorously react, often producing noticeable effects like heat, light, or explosions. Reactivity is a fundamental property that doesn't change unless the substance itself is altered.
+
+Reactability, however, is a broader concept that includes not only the substance's inherent reactivity but also how easily or likely it is for a reaction to occur in a given environment. Factors like temperature, pressure, and the presence of catalysts can influence reactability. While a substance may have high reactivity, its reactability could vary depending on the surrounding conditions, which can either accelerate or inhibit the reaction. In essence, reactability reflects both the substance’s potential to react and the practicality of the reaction taking place under real-world conditions.
+
+#
 ### Computational Reactor Science and Knowledge Requirements
 
 Computational reactor scientists require a high level of intelligence, marked by strong analytical and problem-solving skills. Their work involves complex simulations of nuclear reactors, which demand a deep understanding of physics, particularly nuclear physics, as well as advanced mathematics and computational methods. These scientists must be adept at using sophisticated algorithms and numerical techniques to model and predict reactor behavior under various conditions. This analytical acumen allows them to interpret large datasets, recognize patterns, and anticipate potential issues within the reactor systems.
