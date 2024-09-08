@@ -2096,6 +2096,16 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 [Process Diagram](https://github.com/sourceduty/Process_Diagram)
 <br>
 [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
+<br>
+[Math Programmer](https://github.com/sourceduty/Math_Programmer)
+<br>
+[Maintenance Automation](https://github.com/sourceduty/Maintenance_Automation)
+<br>
+[Search Programmer](https://github.com/sourceduty/Search_Programmer)
+<br>
+[Decision Automation](https://github.com/sourceduty/Decision_Automation)
+<br>
+[Input Automation](https://github.com/sourceduty/Input_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
