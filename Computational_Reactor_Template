@@ -1,0 +1,41 @@
+Reaction Name: [Insert Reaction Name]
+Reactor Type: [Insert Reactor Type]
+
+--- Input Parameters ---
+1. Parameter 1: [Description, Value, Unit]
+2. Parameter 2: [Description, Value, Unit]
+3. Parameter 3: [Description, Value, Unit]
+
+--- Reaction Equations/Models ---
+1. Equation/Model 1: [Describe the equation/model used]
+2. Equation/Model 2: [Describe the equation/model used]
+3. Equation/Model 3: [Describe the equation/model used]
+
+--- Initial Conditions ---
+1. Condition 1: [Description, Initial Value, Unit]
+2. Condition 2: [Description, Initial Value, Unit]
+3. Condition 3: [Description, Initial Value, Unit]
+
+--- Boundary Conditions ---
+1. Boundary Condition 1: [Description, Value, Unit]
+2. Boundary Condition 2: [Description, Value, Unit]
+3. Boundary Condition 3: [Description, Value, Unit]
+
+--- Computational Settings ---
+1. Simulation Time: [Duration, Unit]
+2. Time Step Size: [Value, Unit]
+3. Numerical Method: [Method used, e.g., Finite Element, Monte Carlo]
+4. Convergence Criteria: [Description, Value]
+
+--- Outputs ---
+1. Output 1: [Description, Unit]
+2. Output 2: [Description, Unit]
+3. Output 3: [Description, Unit]
+
+--- Post-Processing ---
+1. Visualization Type: [e.g., Graph, Heatmap]
+2. Data Analysis: [e.g., Statistical Analysis, Trend Identification]
+3. Reporting: [e.g., Summary Report, Detailed Report]
+
+--- Notes ---
+[Include any additional information or considerations for the reaction simulation]
