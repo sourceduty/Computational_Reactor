@@ -255,6 +255,11 @@ A Computational Art Reactor is a virtual system designed to generate unique and 
 The flexibility of a Computational Art Reactor allows it to explore numerous artistic styles, from chaotic fractals and evolving forms to AI-generated compositions influenced by existing artworks. These reactors play a significant role in pushing the boundaries of digital art, enabling the creation of highly detailed and customizable works in a fraction of the time compared to traditional methods. Additionally, the use of algorithms and code in the art-making process bridges the gap between art and science, creating a space where technology enhances creativity, and each piece becomes a blend of mathematical precision and aesthetic expression.
 
 #
+### Computational Reactor for Mental Disorders
+
+A Computational Reactor for Mental Disorders would provide a powerful platform for simulating, analyzing, and predicting a range of mental health conditions. By replicating the complex neurological and psychological processes involved, this reactor could help researchers and clinicians gain a deeper understanding of disorders like depression, anxiety, schizophrenia, and bipolar disorder. Through simulations, we could examine how various factors—such as neurochemical changes, environmental influences, and genetic predispositions—impact these conditions. Furthermore, this reactor could enable the exploration of different treatment strategies in a virtual setting, allowing for the assessment of their potential effectiveness and side effects before being applied in clinical settings. Such a tool would support the development of more targeted and personalized treatment approaches, aiming to improve patient outcomes while reducing the trial-and-error aspect of mental health treatment.
+
+#
 ### Computational Arc Reactor
 
 ![Iron Man](https://github.com/user-attachments/assets/a09db99e-eeec-48a8-b8e1-15e0907cf555)
