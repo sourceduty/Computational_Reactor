@@ -2156,6 +2156,8 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 [Input Automation](https://github.com/sourceduty/Input_Automation)
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
+<br>
+[Aripiprazole STPD](https://github.com/sourceduty/Aripiprazole_STPD)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
