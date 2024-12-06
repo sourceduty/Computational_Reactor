@@ -2184,5 +2184,8 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 <br>
 [File Power](https://github.com/sourceduty/File_Power)
 
+#
+![Theoretical](https://github.com/user-attachments/assets/d6914847-c3ad-4cdf-b039-972a7cbd9425)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
