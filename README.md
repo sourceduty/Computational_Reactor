@@ -2027,6 +2027,17 @@ The Oxygen Generation Reactor utilizes the decomposition of hydrogen peroxide (H
 </details>
 
 #
+### Encoding and Encryption
+
+![Encoded](https://github.com/user-attachments/assets/81378c76-09b4-4ce4-9ce7-d5a31887938e)
+
+Encryption and encoding are distinct concepts, though they are often confused due to their similar underlying mechanics. Encryption is a process designed to protect the confidentiality of information by transforming it into an unreadable format using a cryptographic algorithm and a key. The resulting output, known as ciphertext, can only be reverted to its original form (plaintext) by authorized parties with the correct decryption key. Encryption is primarily used in securing sensitive data, ensuring privacy in communications, and safeguarding digital transactions. A hallmark of encryption is its focus on security; its goal is to prevent unauthorized access, not to make the data widely accessible.
+
+Encoding, on the other hand, is a method of converting data into a different format to ensure that it can be properly transmitted, stored, or interpreted. It is a reversible process that does not require a key, as its purpose is not security but compatibility and readability. Common examples of encoding include Base64, ASCII, or URL encoding, which are used to adapt data for specific systems or protocols. Unlike encryption, encoding is not designed to protect information from unauthorized access, as anyone who understands the encoding scheme can easily decode the data.
+
+While encryption and encoding both transform data, their objectives are fundamentally different—encryption ensures privacy, while encoding ensures usability.
+
+#
 ### Full-Scale Physical Systems
 
 ![Nuclear Reactor Core](https://github.com/user-attachments/assets/f75a9319-449c-4e8e-8ce1-0d531acd53d0)
