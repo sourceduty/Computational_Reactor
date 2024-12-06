@@ -2173,8 +2173,6 @@ Sourceduty, the creator of this repo, is a leader in integrating state-of-the-ar
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
-[Aripiprazole STPD](https://github.com/sourceduty/Aripiprazole_STPD)
-<br>
 [Image Power](https://github.com/sourceduty/Image_Power)
 <br>
 [File Power](https://github.com/sourceduty/File_Power)
